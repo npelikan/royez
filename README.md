@@ -1,5 +1,5 @@
 # royez 
-[![Travis build status](https://travis-ci.org/npelikan/royez.svg?branch=master)](https://travis-ci.org/npelikan/royez)  [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/npelikan/royez?branch=master&svg=true)](https://ci.appveyor.com/project/npelikan/royez)    [![Coverage status](https://codecov.io/gh/npelikan/royez/branch/master/graph/badge.svg)](https://codecov.io/github/npelikan/royez?branch=master)
+[![Build Status](https://travis-ci.com/npelikan/royez.svg?branch=master)](https://travis-ci.com/npelikan/royez)  [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/npelikan/royez?branch=master&svg=true)](https://ci.appveyor.com/project/npelikan/royez)    [![Coverage status](https://codecov.io/gh/npelikan/royez/branch/master/graph/badge.svg)](https://codecov.io/github/npelikan/royez?branch=master)
 
 ## Installation
 
