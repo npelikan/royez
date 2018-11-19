@@ -1,0 +1,15 @@
+Package: royez
+Title: Oyez R API
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nick",
+           family = "Pelikan",
+           role = c("aut", "cre"),
+           email = "nick.pelikan@gmail.com")
+Description: Makes Oyez API easier to use in R.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat,
+    covr
