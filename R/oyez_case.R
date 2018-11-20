@@ -10,7 +10,6 @@
 #'
 #' @importFrom glue glue
 #' @importFrom httr content GET
-#' @importFrom utils hasName
 #'
 #' @export
 oyez_case <- function(term, docket_number){
@@ -18,7 +17,7 @@ oyez_case <- function(term, docket_number){
     res <- httr::content(httr::GET(glue::glue("https://api.oyez.org/cases/{term}/{docket_number}")))
 
     ## stops if unnamed
-    if(!hasName(res, 'ID')){
+    if(!'ID' %in% names(res)){
         stop("No case found with that identifier.", call. = FALSE)
     }
 
