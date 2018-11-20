@@ -10,6 +10,7 @@
 #'
 #' @importFrom glue glue
 #' @importFrom httr content GET
+#' @importFrom utils hasName
 #'
 #' @export
 oyez_case <- function(term, docket_number){
