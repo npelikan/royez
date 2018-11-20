@@ -1,6 +1,15 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
 language: R
+
+os:
+  - linux
+  - osx
+r:
+  - oldrel
+  - release
+  - 3.3
+
 sudo: false
 cache: packages
 after_success:
