@@ -1,0 +1,17 @@
+Oyez API Design
+
+"design"
+
+Base URL: https://api.oyez.org
+
+Endpoints:
+
+  /cases:
+    Accepts query string.
+    Known query params:
+      per_page: number of cases to display per page. 0 is unlimited
+      filter(can have multiple submissions): accepts a key:value argument
+        known keys: term
+
+  /cases/{term}/{docket_number}:
+    displays all cases in that term
