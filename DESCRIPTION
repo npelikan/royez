@@ -15,6 +15,10 @@ Suggests:
     httptest,
     covr
 Imports: 
+<<<<<<< HEAD
     httr,
     glue
+=======
+    httr
+>>>>>>> 1e1253ca746655c5c0e1a4fb5c6dac5ebd2c8c23
 RoxygenNote: 6.0.1
