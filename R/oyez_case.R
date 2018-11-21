@@ -30,12 +30,41 @@ oyez_case <- function(term, docket_number){
 
 #' Get multiple oyez cases
 #'
+#' Gets multiple oyez cases for analysis. The input, x, can be either a data.frame with columns
+#' \code {term} and \code{docket_number}, or a list of lists, with each sublist containing fields
+#' named \code {term} and \code{docket_number}
 #'
 #'
 #' @param x a data.frame or list
-#' @param ...
+#' @param ... other arguments passed on to methods
 #'
 #' @return an OyezCaseList object
+#'
+#' @examples
+#' \dontrun{
+#'  df <- data.frame(
+#'      term = c("2014", "2014", "2000"),
+#'      docket_number = c("13-1175", "13-1499", "00-949")
+#'  )
+#'  oyez_cases(df)
+#'
+#'  lst <- list(
+#'        list(
+#'            term = "2014",
+#'            docket_number = "13-1175"
+#'        ),
+#'        list(
+#'            term = "2014",
+#'            docket_number = "13-1499"
+#'        ),
+#'        list(
+#'            term = "2000",
+#'            docket_number = "00-949"
+#'        )
+#'    )
+#'  oyez_cases(lst)
+#' }
+#'
 #' @export
 oyez_cases <- function(x, ...){
     UseMethod('oyez_cases')
@@ -50,8 +79,9 @@ oyez_cases.data.frame <- function(x, ...){
         stop('data.frame inputs to `oyez_cases()` must contain columns term and docket_number',
              call. = F)
     }
-    # turns factors to characters
+    # turns inevitable factors to characters
     x <- purrr::modify_if(x, is.factor, as.character)
+
     out <- purrr::pmap(x, oyez_case)
     class(out) <- "OyezCaseList"
     out

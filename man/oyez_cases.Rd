@@ -15,11 +15,39 @@ oyez_cases(x, ...)
 \arguments{
 \item{x}{a data.frame or list}
 
-\item{...}{}
+\item{...}{other arguments passed on to methods}
 }
 \value{
 an OyezCaseList object
 }
 \description{
-Get multiple oyez cases
+Gets multiple oyez cases for analysis. The input, x, can be either a data.frame with columns
+\code {term} and \code{docket_number}, or a list of lists, with each sublist containing fields
+named \code {term} and \code{docket_number}
+}
+\examples{
+\dontrun{
+ df <- data.frame(
+     term = c("2014", "2014", "2000"),
+     docket_number = c("13-1175", "13-1499", "00-949")
+ )
+ oyez_cases(df)
+
+ lst <- list(
+       list(
+           term = "2014",
+           docket_number = "13-1175"
+       ),
+       list(
+           term = "2014",
+           docket_number = "13-1499"
+       ),
+       list(
+           term = "2000",
+           docket_number = "00-949"
+       )
+   )
+ oyez_cases(lst)
+}
+
 }
