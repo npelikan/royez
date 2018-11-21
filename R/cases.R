@@ -1,6 +1,6 @@
-#' Get cases for an \code{oyez} object
+#' Get cases for an \code{Oyez} object
 #'
-#' @param x the oyez object
+#' @param x the Oyez object
 #' @param ... other arguments
 #'
 #' @export

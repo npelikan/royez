@@ -22,8 +22,8 @@ an OyezCaseList object
 }
 \description{
 Gets multiple oyez cases for analysis. The input, x, can be either a data.frame with columns
-\code {term} and \code{docket_number}, or a list of lists, with each sublist containing fields
-named \code {term} and \code{docket_number}
+\code{term} and \code{docket_number}, or a list of lists, with each sublist containing fields
+named \code{term} and \code{docket_number}
 }
 \examples{
 \dontrun{

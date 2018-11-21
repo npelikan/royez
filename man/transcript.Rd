@@ -4,7 +4,7 @@
 \alias{transcript}
 \alias{transcript.OyezCase}
 \alias{transcript.OyezCaseList}
-\title{Gets transcripts for OyezCase objects, or OyezCaseLists}
+\title{Gets transcripts for OyezCase objects or OyezCaseLists}
 \usage{
 transcript(x, ...)
 
@@ -21,7 +21,7 @@ transcript(x, ...)
 an OyezTranscript or OyezTranscriptList object
 }
 \description{
-Gets transcripts for OyezCase objects, or OyezCaseLists
+Gets transcripts for OyezCase objects or OyezCaseLists
 }
 \examples{
 \dontrun{

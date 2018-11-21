@@ -1,4 +1,4 @@
-#' Gets transcripts for OyezCase objects, or OyezCaseLists
+#' Gets transcripts for OyezCase objects or OyezCaseLists
 #'
 #' @param x an OyezCase or OyezCaseList object
 #' @param ... other arguments passed on to methods

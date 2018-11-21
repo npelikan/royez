@@ -3,7 +3,7 @@
 #' @param term the term
 #' @param docket_number the docket number
 #'
-#' @return
+#' @return an object of class OyezCase
 #'
 #' @examples
 #' \dontrun{oyez_case(term = 2014, docket_number='13-1175')}
@@ -31,8 +31,8 @@ oyez_case <- function(term, docket_number){
 #' Get multiple oyez cases
 #'
 #' Gets multiple oyez cases for analysis. The input, x, can be either a data.frame with columns
-#' \code {term} and \code{docket_number}, or a list of lists, with each sublist containing fields
-#' named \code {term} and \code{docket_number}
+#' \code{term} and \code{docket_number}, or a list of lists, with each sublist containing fields
+#' named \code{term} and \code{docket_number}
 #'
 #'
 #' @param x a data.frame or list

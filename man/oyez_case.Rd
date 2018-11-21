@@ -12,7 +12,7 @@ oyez_case(term, docket_number)
 \item{docket_number}{the docket number}
 }
 \value{
-
+an object of class OyezCase
 }
 \description{
 Get a single Oyez Case

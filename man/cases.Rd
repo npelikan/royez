@@ -2,15 +2,15 @@
 % Please edit documentation in R/cases.R
 \name{cases}
 \alias{cases}
-\title{Get cases for an \code{oyez} object}
+\title{Get cases for an \code{Oyez} object}
 \usage{
 cases(x, ...)
 }
 \arguments{
-\item{x}{the oyez object}
+\item{x}{the Oyez object}
 
 \item{...}{other arguments}
 }
 \description{
-Get cases for an \code{oyez} object
+Get cases for an \code{Oyez} object
 }
