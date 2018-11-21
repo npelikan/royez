@@ -1,0 +1,1619 @@
+[
+    {
+        "ID": 62993,
+        "name": "Air and Liquid Systems Corp. v. Devries",
+        "href": "https://api.oyez.org/cases/2018/17-1104",
+        "view_count": 3647,
+        "docket_number": "17-1104",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1526274000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54264"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1539147600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54345"
+            }
+        ],
+        "question": "<p>Can products liability defendants be held liable under maritime law for injuries caused by products that they did not make, sell, or distribute?<\/p>\n",
+        "citation": {
+            "volume": null,
+            "page": null,
+            "year": null,
+            "href": "https://api.oyez.org/case_citation/case_citation/27594"
+        },
+        "term": "2018",
+        "description": "A case in which the Court will decide whether products liability defendants can be held liable under maritime law for injuries caused by products that they did not make, sell, or distribute.",
+        "justia_url": null
+    },
+    {
+        "ID": 62863,
+        "name": "Cyan, Inc. v. Beaver County Employees' Retirement Fund",
+        "href": "https://api.oyez.org/cases/2017/15-1439",
+        "view_count": 0,
+        "docket_number": "15-1439",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1498539600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54085"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1511848800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54127"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1521608400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54241"
+            }
+        ],
+        "question": "<p>Do state courts have subject matter jurisdiction over covered class actions that allege only Securities Act of 1933 claims?<\/p>\n",
+        "citation": {
+            "volume": "583",
+            "page": null,
+            "year": "2018",
+            "href": "https://api.oyez.org/case_citation/case_citation/27527"
+        },
+        "term": "2017",
+        "description": "A case in which the Court held that that the Securities Litigation Uniform Standards Act of 1998 does not strip state courts of jurisdiction to hear claims under the Securities Act of 1933, nor does it permit defendants to remove class actions alleging only 1933 Act claims from state to federal court.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/583/15-1439/"
+    },
+    {
+        "ID": 62811,
+        "name": "Bristol-Myers Squibb Co. v. Superior Court of California",
+        "href": "https://api.oyez.org/cases/2016/16-466",
+        "view_count": 800,
+        "docket_number": "16-466",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1484805600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53969"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1493096400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54028"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1497848400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54060"
+            }
+        ],
+        "question": "<p>Do a plaintiff’s claims sufficiently arise out of or relate to a defendant’s forum activities to create specific jurisdiction when the plaintiff’s claims would be exactly the same even if the defendant had no forum contacts?<\/p>\n",
+        "citation": {
+            "volume": "582",
+            "page": null,
+            "year": "2017",
+            "href": "https://api.oyez.org/case_citation/case_citation/27505"
+        },
+        "term": "2016",
+        "description": "A case in which the Court determined that, when the plaintiffs’ claims would have been exactly the same even if the defendant had no forum state contacts, there is no basis for specific jurisdiction because the case does not sufficiently arise out of or relate to the defendant’s forum activities.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-466/"
+    },
+    {
+        "ID": 62810,
+        "name": "California Public Employees’ Retirement System v. ANZ Securities, Inc.",
+        "href": "https://api.oyez.org/cases/2016/16-373",
+        "view_count": 0,
+        "docket_number": "16-373",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1484287200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53968"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1492405200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54020"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1498453200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54079"
+            }
+        ],
+        "question": "<p>1. Does the filing of a putative class action lawsuit serve to satisfy the three-year time limit in Section 13 of the Securities Act with respect to the individual claims of other class members?<\/p>\n<p> <\/p>\n",
+        "citation": {
+            "volume": "582",
+            "page": null,
+            "year": "2017",
+            "href": "https://api.oyez.org/case_citation/case_citation/27504"
+        },
+        "term": "2016",
+        "description": "A case in which the Court determined that the filing of a putative class action lawsuit does not satisfy the three-year time limit in Section 13 of the Securities Act with respect to the individual claims of other class members.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/582/16-373/"
+    },
+    {
+        "ID": 56178,
+        "name": "DIRECTV, Inc. v. Imburgia",
+        "href": "https://api.oyez.org/cases/2015/14-462",
+        "view_count": 115,
+        "docket_number": "14-462",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1427086800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41779"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1444107600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52798"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1450072800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53359"
+            }
+        ],
+        "question": "<p>Did the California Court of Appeal err in holding that a reference to state law in an arbitration clause required the application of that state law despite its preemption by the Federal Arbitration Act?<\/p>\n",
+        "citation": {
+            "volume": "577",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/20960"
+        },
+        "term": "2015",
+        "description": "A case in which the Court determined that the Federal Arbitration Act preempted state law and required the enforcement of a contract’s arbitration agreement.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/577/14-462/"
+    },
+    {
+        "ID": 62306,
+        "name": "Dollar General Corporation v. Mississippi Band of Choctaw Indians",
+        "href": "https://api.oyez.org/cases/2015/13-1496",
+        "view_count": 0,
+        "docket_number": "13-1496",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1434344400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52776"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1449468000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53288"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1466658000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53814"
+            }
+        ],
+        "question": "<p>Does a tribal court have jurisdiction to adjudicate civil tort claims against nonmembers?<\/p>\n",
+        "citation": {
+            "volume": "579",
+            "page": null,
+            "year": "2016",
+            "href": "https://api.oyez.org/case_citation/case_citation/27108"
+        },
+        "term": "2015",
+        "description": "A case in which the equally divided Court affirmed the lower court, determining a tribal court had jurisdiction to adjudicate civil tort claims against nonmembers.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/579/13-1496/"
+    },
+    {
+        "ID": 62595,
+        "name": "Heffernan v. City of Paterson",
+        "href": "https://api.oyez.org/cases/2015/14-1280",
+        "view_count": 280,
+        "docket_number": "14-1280",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1443675600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53292"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1453183200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53329"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1461646800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53498"
+            }
+        ],
+        "question": "<p>Does the First Amendment prohibit the government from demoting a public employee based on a supervisor’s perception that the employee supports a political candidate?<\/p>\n",
+        "citation": {
+            "volume": "578",
+            "page": null,
+            "year": "2016",
+            "href": "https://api.oyez.org/case_citation/case_citation/27368"
+        },
+        "term": "2015",
+        "description": "A case in which the Court determined that a government employee who is demoted because of perceived involvement in protected political activity is entitled to challenge his demotion under the First Amendment, even if the demotion was based on a factual mistake. ",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/578/14-1280/"
+    },
+    {
+        "ID": 56058,
+        "name": "City of Los Angeles v. Patel",
+        "href": "https://api.oyez.org/cases/2014/13-1175",
+        "view_count": 282,
+        "docket_number": "13-1175",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1413781200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41631"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1425362400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41632"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1434949200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52766"
+            }
+        ],
+        "question": "<p>Is a municipal ordinance that allows police to inspect hotel records without a warrant inconsistent with the Fourth Amendment's privacy expectations?<\/p>\n",
+        "citation": {
+            "volume": "576",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/27104"
+        },
+        "term": "2014",
+        "description": "A case in which the Court determined that a municipal ordinance that allows the police to inspect hotel records without a warrant violates the Fourth Amendment’s prohibition against unreasonable searches unless the business owner is given the opportunity for pre-compliance review.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/"
+    },
+    {
+        "ID": 56057,
+        "name": "Gelboim v. Bank of America",
+        "href": "https://api.oyez.org/cases/2014/13-1174",
+        "view_count": 0,
+        "docket_number": "13-1174",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1404104400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41628"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1418104800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41629"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1421820000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41630"
+            }
+        ],
+        "question": "<p>Is a dismissed claim immediately appealable if the claim is part of a consolidated action and no final order has been issued concerning all claims in the action?<\/p>\n",
+        "citation": {
+            "volume": "574",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/20913"
+        },
+        "term": "2014",
+        "description": "A case in which the Court ruled that a dismissed claim is immediately appealable if the claim is part of a consolidated action and no final order has been issued concerning all claims in the action.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/574/13-1174/"
+    },
+    {
+        "ID": 56046,
+        "name": "Mach Mining, LLC v. Equal Employment Opportunity Commission",
+        "href": "https://api.oyez.org/cases/2014/13-1019",
+        "view_count": 0,
+        "docket_number": "13-1019",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1404104400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41610"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1421128800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41611"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1430283600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/51649"
+            }
+        ],
+        "question": "<p>Are the Equal Employment Opportunity Commission's conciliation efforts judicially reviewable and, if so, to what extent?<\/p>\n",
+        "citation": {
+            "volume": "575",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/26949"
+        },
+        "term": "2014",
+        "description": "A case in which the Court held that judicial review of the Equal Employment Opportunity Commission’s efforts at conciliation is appropriate, but such review must be limited to the narrow requirements that Title VII imposes.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/575/13-1019/"
+    },
+    {
+        "ID": 56086,
+        "name": "Omnicare, Inc. v. Laborers District Council Construction Industry Pension Fund",
+        "href": "https://api.oyez.org/cases/2014/13-435",
+        "view_count": 117,
+        "docket_number": "13-435",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1393826400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41665"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1414994400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41666"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1427173200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41772"
+            }
+        ],
+        "question": "<p>For purposes of §11 of the Securities Act of 1933, may an entity’s opinion statements constitute an untrue statement of fact if the opinion statement is shown to be objectively false without proof that the entity knew the opinion statement was false?<\/p>\n",
+        "citation": {
+            "volume": "575",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/20945"
+        },
+        "term": "2014",
+        "description": "A case in which the Court ruled that a statement of opinion, even if shown to be objectively false, cannot constitute an untrue statement of fact because of the different nature between opinions and facts.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/575/13-435/"
+    },
+    {
+        "ID": 56004,
+        "name": "Chadbourne and Parke LLP v. Troice",
+        "href": "https://api.oyez.org/cases/2013/12-79",
+        "view_count": 0,
+        "docket_number": "12-79",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1358488800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41335"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1381122000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41336"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1393394400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41585"
+            }
+        ],
+        "question": "<p>Does the Securities Litigation Uniform Standards Act (SLUSA) preclude a class action under state securities law that alleges fraud and misrepresentations of securities as SLUSA-covered securities?<\/p>\n",
+        "citation": {
+            "volume": "571",
+            "page": null,
+            "year": "2014",
+            "href": "https://api.oyez.org/case_citation/case_citation/20897"
+        },
+        "term": "2013",
+        "description": "A case in which the Court held that the Securities Litigation Uniform Standards Act does not extend its scope beyond misrepresentations that are material to the sale of a closed financial security.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/571/12-79/"
+    },
+    {
+        "ID": 55985,
+        "name": "Walden v. Fiore",
+        "href": "https://api.oyez.org/cases/2013/12-574",
+        "view_count": 208,
+        "docket_number": "12-574",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1362376800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41298"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1383544800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41299"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1393308000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41577"
+            }
+        ],
+        "question": "<p>Does due process allow the Nevada court to exercise personal jurisdiction over Walden?<\/p>\n<p>Is the District of Nevada the place where \"a substantial part of the events or omissions giving rise to the claim occurred\" for purposes of establishing venue when all of defendant's alleged acts or omissions happened in another district?<\/p>\n",
+        "citation": {
+            "volume": "571",
+            "page": null,
+            "year": "2014",
+            "href": "https://api.oyez.org/case_citation/case_citation/20889"
+        },
+        "term": "2013",
+        "description": "A case in which the Court held that an FDA officer could not be sued in Nevada under the Fourteenth Amendment, due to his lack of connection with that state.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/571/12-574/"
+    },
+    {
+        "ID": 55927,
+        "name": "Already LLC v. Nike",
+        "href": "https://api.oyez.org/cases/2012/11-982",
+        "view_count": 241,
+        "docket_number": "11-982",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1340600400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41143"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1352268000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41144"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1357711200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41145"
+            }
+        ],
+        "question": "<p>Did Already's counterclaim create a justiciable controversy sufficient to allow the District Court to exercise subject matter jurisdiction?<\/p>\n",
+        "citation": {
+            "volume": "568",
+            "page": "85",
+            "year": "2013",
+            "href": "https://api.oyez.org/case_citation/case_citation/19849"
+        },
+        "term": "2012",
+        "description": "A case in which the Court held that a covenant not to sue invalidates a company’s counterclaim for trademark enforcement.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/568/11-982/"
+    },
+    {
+        "ID": 55924,
+        "name": "City of Arlington, TX v. FCC",
+        "href": "https://api.oyez.org/cases/2012/11-1545",
+        "view_count": 199,
+        "docket_number": "11-1545",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1349413200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41135"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1358316000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41136"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1369026000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41137"
+            }
+        ],
+        "question": "<p>Should a court apply the Chevron doctrine and defer to an agency's interpretation of its jurisdiction under a particular law when that interpretation is called into question?<\/p>\n",
+        "citation": {
+            "volume": "569",
+            "page": "290",
+            "year": "2013",
+            "href": "https://api.oyez.org/case_citation/case_citation/19846"
+        },
+        "term": "2012",
+        "description": "A case in which the Court found that the courts must apply the Chevron doctrine and defer to an agency's interpretation of its jurisdiction when that jurisdiction is called into question.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/569/11-1545/"
+    },
+    {
+        "ID": 55961,
+        "name": "Moncrieffe v. Holder",
+        "href": "https://api.oyez.org/cases/2012/11-702",
+        "view_count": 0,
+        "docket_number": "11-702",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1333342800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41243"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1349845200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41244"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1366693200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41245"
+            }
+        ],
+        "question": "<p>Does conviction under a provision of state law for distribution of a small mount of marijuana constitute an aggravated felony, regardless of whether the conduct would constitute a federal felony?<\/p>\n",
+        "citation": {
+            "volume": "569",
+            "page": "184",
+            "year": "2013",
+            "href": "https://api.oyez.org/case_citation/case_citation/19883"
+        },
+        "term": "2012",
+        "description": "A case in which the Court found that distribution of small amounts of marijuana does not constitute an aggravated felony and thus, does not require deportation of the distributor.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/569/11-702/"
+    },
+    {
+        "ID": 55820,
+        "name": "Christopher v. SmithKline",
+        "href": "https://api.oyez.org/cases/2011/11-204",
+        "view_count": 186,
+        "docket_number": "11-204",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1322460000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40843"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1334552400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40844"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1339995600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40845"
+            }
+        ],
+        "question": "<p>1. Must Glaxo and the courts defer to the Secretary of Labor's definition of \"outside salesman\" under the Fair Labor Standards Act?<\/p>\n<p>2. Does the Secretary of Labor's definition of \"outside salesman\" apply to pharmaceutical sales representatives?<\/p>\n",
+        "citation": {
+            "volume": "567",
+            "page": null,
+            "year": "2012",
+            "href": "https://api.oyez.org/case_citation/case_citation/19742"
+        },
+        "term": "2011",
+        "description": "A case in which the Court held that the Secretary of Labor's definition of \"outside salesman\" apply to pharmaceutical sales representatives under the Fair Labor Standards Act.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/567/11-204/"
+    },
+    {
+        "ID": 55852,
+        "name": "Florence v. Board of Chosen Freeholders of the County of Burlington",
+        "href": "https://api.oyez.org/cases/2011/10-945",
+        "view_count": 428,
+        "docket_number": "10-945",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1301893200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40929"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1318395600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40930"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1333342800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40931"
+            }
+        ],
+        "question": "<p>Does the Fourth Amendment permit a jail to conduct a suspicion-less strip search whenever an individual is arrested, including for minor offenses?<\/p>\n",
+        "citation": {
+            "volume": "566",
+            "page": null,
+            "year": "2012",
+            "href": "https://api.oyez.org/case_citation/case_citation/19774"
+        },
+        "term": "2011",
+        "description": "A case in which the Court held that prisons that conduct suspicion-less strip searches on incoming inmates do not violate the prisoner's Fourth Amendment rights.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/566/10-945/"
+    },
+    {
+        "ID": 55749,
+        "name": "Sorrell v. IMS Health Inc.",
+        "href": "https://api.oyez.org/cases/2010/10-779",
+        "view_count": 336,
+        "docket_number": "10-779",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1294380000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40654"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1303794000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40655"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1308805200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40656"
+            }
+        ],
+        "question": "<p>Does a Vermont state statute banning the sale, transmission or use of prescriber-identifiable data, absent prescriber consent, unconstitutionally restrict the free speech rights of pharmaceutical research companies, manufacturers and others to use that data?<\/p>\n",
+        "citation": {
+            "volume": "564",
+            "page": null,
+            "year": "2011",
+            "href": "https://api.oyez.org/case_citation/case_citation/19671"
+        },
+        "term": "2010",
+        "description": "A case in which the Court held that a Vermont statute banning the sale, transmission or use of prescription drug user data violated protected speech of the pharmaceutical research companies, manufacturers and others who use that data. ",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/564/10-779/"
+    },
+    {
+        "ID": 55657,
+        "name": "Hamilton v. Lanning",
+        "href": "https://api.oyez.org/cases/2009/08-998",
+        "view_count": 0,
+        "docket_number": "08-998",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1257141600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40430"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1269234000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40431"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1275886800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40432"
+            }
+        ],
+        "question": "<p>In calculating a debtor's \"projected disposable income,\" may the bankruptcy court consider evidence suggesting that the debtor's income or expenses during that period are likely to be different from the debtor's income or expenses during the pre-filing period?<\/p>\n",
+        "citation": {
+            "volume": "560",
+            "page": "505",
+            "year": "2010",
+            "href": "https://api.oyez.org/case_citation/case_citation/19579"
+        },
+        "term": "2009",
+        "description": "A case in which the Court held that a bankruptcy court may take evidence into account that suggests a debtor's finances prior to the filing period would be different than the debtor's finances during the period of bankruptcy.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/560/08-998/"
+    },
+    {
+        "ID": 55599,
+        "name": "Cone v. Bell",
+        "href": "https://api.oyez.org/cases/2008/07-1114",
+        "view_count": 0,
+        "docket_number": "07-1114",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1214197200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40271"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1228802400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40272"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1240894800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40273"
+            }
+        ],
+        "question": "<p>1) Is Mr. Cone entitled to federal habeas review of his claim that the state suppressed material evidence in violation of <em>Brady v. Maryland<\/em>?<\/p>\n<p>2) Is Mr. Cone's federal habeas corpus claim \"procedurally defaulted\" because it has been presented twice at the state court level?<\/p>\n",
+        "citation": {
+            "volume": "556",
+            "page": null,
+            "year": "2009",
+            "href": "https://api.oyez.org/case_citation/case_citation/20785"
+        },
+        "term": "2008",
+        "description": "A case in which the Court found that the petitioner was entitled to federal habeas corpus review due to suppression of material evidence, notwithstanding that habeas reviewed had already been presented twice at the state court level. ",
+        "justia_url": null
+    },
+    {
+        "ID": 55576,
+        "name": "Jimenez v. Quarterman",
+        "href": "https://api.oyez.org/cases/2008/07-6984",
+        "view_count": 0,
+        "docket_number": "07-6984",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1205730000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40204"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1225778400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40205"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1231826400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40206"
+            }
+        ],
+        "question": "<p>When a criminal defendant is unable to obtain timely direct review of his case in state court, should the one-year statute of limitations for appeals begin to run at the date of conviction, as federal law prescribes, or after the delayed direct review is completed?<\/p>\n",
+        "citation": {
+            "volume": "555",
+            "page": null,
+            "year": "2009",
+            "href": "https://api.oyez.org/case_citation/case_citation/20819"
+        },
+        "term": "2008",
+        "description": "A case in which the Court held that if a state court grants a criminal defendant the right to file an out-of-time direct appeal, the statute of limitations doesn't begin until after the out-of-time appeal is final. ",
+        "justia_url": null
+    },
+    {
+        "ID": 55538,
+        "name": "Republic of Iraq v. Beaty",
+        "href": "https://api.oyez.org/cases/2008/07-1090",
+        "view_count": 0,
+        "docket_number": "07-1090",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1231480800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40099"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1240203600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40100"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1244437200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40101"
+            }
+        ],
+        "question": "<p>Do American courts have jurisdiction over lawsuits filed prior to the revision of 28 U.S.C. Section 1605(a)(7) against the Republic of Iraq when the alleged misdeeds occurred under the regime of Saddam Hussein?<\/p>\n",
+        "citation": {
+            "volume": "556",
+            "page": null,
+            "year": "2009",
+            "href": "https://api.oyez.org/case_citation/case_citation/20784"
+        },
+        "term": "2008",
+        "description": null,
+        "justia_url": null
+    },
+    {
+        "ID": 55515,
+        "name": "Virginia v. Moore",
+        "href": "https://api.oyez.org/cases/2007/06-1082",
+        "view_count": 121,
+        "docket_number": "06-1082",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1190696400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40033"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1200290400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40034"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1208926800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40035"
+            }
+        ],
+        "question": "<p>Does the Fourth Amendment require the suppression of evidence obtained incident to an arrest when the arrest violates a<\/p>\n<p>provision of state law?<\/p>\n",
+        "citation": {
+            "volume": "553",
+            "page": "164",
+            "year": "2008",
+            "href": "https://api.oyez.org/case_citation/case_citation/19438"
+        },
+        "term": "2007",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/553/164/"
+    },
+    {
+        "ID": 55450,
+        "name": "KSR International Co. v. Teleflex Inc.",
+        "href": "https://api.oyez.org/cases/2006/04-1350",
+        "view_count": 130,
+        "docket_number": "04-1350",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1151298000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39855"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1164693600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39856"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1177909200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39857"
+            }
+        ],
+        "question": "<p>Was the Federal Circuit correct in holding that an invention cannot be held \"obvious\", and thus unpatentable, without a finding of some \"teaching, suggestion, or motivation\" that would have led a \"person of ordinary skill in the art\" to the invention by combining previously-existing ideas?<\/p>\n",
+        "citation": {
+            "volume": "550",
+            "page": "398",
+            "year": "2007",
+            "href": "https://api.oyez.org/case_citation/case_citation/20647"
+        },
+        "term": "2006",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/550/398/"
+    },
+    {
+        "ID": 55346,
+        "name": "Georgia v. Randolph",
+        "href": "https://api.oyez.org/cases/2005/04-1067",
+        "view_count": 948,
+        "docket_number": "04-1067",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1113800400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39580"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1131429600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39581"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1143007200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39582"
+            }
+        ],
+        "question": "<p>Can police search a home when one physically present resident consents and the other physically present resident objects?<\/p>\n",
+        "citation": {
+            "volume": "547",
+            "page": "103",
+            "year": "2006",
+            "href": "https://api.oyez.org/case_citation/case_citation/20573"
+        },
+        "term": "2005",
+        "description": "A case in which the Court determined that if one resident grants a search and the other rejects, the search is unconstitutional under the Fourth Amendment.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/547/103/"
+    },
+    {
+        "ID": 55293,
+        "name": "IBP, Inc. v. Alvarez",
+        "href": "https://api.oyez.org/cases/2005/03-1238",
+        "view_count": 0,
+        "docket_number": "03-1238",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1109052000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39434"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1128315600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39435"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1131429600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39436"
+            }
+        ],
+        "question": "<p>Did the Fair Labor Standards Act require employers to pay employees for time spent walking to and from stations that distributed required safety equipment?<\/p>\n",
+        "citation": {
+            "volume": "546",
+            "page": "21",
+            "year": "2005",
+            "href": "https://api.oyez.org/case_citation/case_citation/20570"
+        },
+        "term": "2005",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/546/21/"
+    },
+    {
+        "ID": 55274,
+        "name": "National Cable & Telecommunications Assocation v. Brand X Internet Services",
+        "href": "https://api.oyez.org/cases/2004/04-277",
+        "view_count": 230,
+        "docket_number": "04-277",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1102053600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52594"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1112076000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52593"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1119848400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39386"
+            }
+        ],
+        "question": "<p>Did the FCC lawfully interpret the Communications Act of 1934 by deciding that broadband cable companies did not provide a \"telecommunications service?\"<\/p>\n",
+        "citation": {
+            "volume": "545",
+            "page": "967",
+            "year": "2005",
+            "href": "https://api.oyez.org/case_citation/case_citation/20566"
+        },
+        "term": "2004",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/545/967/"
+    },
+    {
+        "ID": 55212,
+        "name": "Smith v. City of Jackson, Mississippi",
+        "href": "https://api.oyez.org/cases/2004/03-1160",
+        "view_count": 152,
+        "docket_number": "03-1160",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1080540000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39212"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1099461600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39213"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1112162400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39214"
+            }
+        ],
+        "question": "<p>Can a disparate impact claim - a claim alleging unintentional discrimination - be made under the Age Discrimination in Employment Act of 1967 (ADEA)?<\/p>\n",
+        "citation": {
+            "volume": "544",
+            "page": "228",
+            "year": "2005",
+            "href": "https://api.oyez.org/case_citation/case_citation/19140"
+        },
+        "term": "2004",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/544/228/"
+    },
+    {
+        "ID": 55260,
+        "name": "Spector v. Norwegian Cruise Line Ltd.",
+        "href": "https://api.oyez.org/cases/2004/03-1388",
+        "view_count": 0,
+        "docket_number": "03-1388",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1096347600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39342"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1109570400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39343"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1118034000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39344"
+            }
+        ],
+        "question": "<p>Does Title III of the Americans with Disabilities Act apply to foreign-flagged cruise ships in U.S. waters?<\/p>\n",
+        "citation": {
+            "volume": "545",
+            "page": "",
+            "year": "2005",
+            "href": "https://api.oyez.org/case_citation/case_citation/20543"
+        },
+        "term": "2004",
+        "description": null,
+        "justia_url": null
+    },
+    {
+        "ID": 55135,
+        "name": "Central Laborers' Pension Fund v. Heinz",
+        "href": "https://api.oyez.org/cases/2003/02-891",
+        "view_count": 0,
+        "docket_number": "02-891",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1070258400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38994"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1082350800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38995"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1086584400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38996"
+            }
+        ],
+        "question": "<p>Did Central Laborers' Pension violate the \"anti-cutback\" provision of the Employee Retirement Income Security Act of 1974 when it added to a list of positions that temporarily disqualified pension holders from receiving their benefits?<\/p>\n",
+        "citation": {
+            "volume": "541",
+            "page": "739",
+            "year": "2004",
+            "href": "https://api.oyez.org/case_citation/case_citation/19064"
+        },
+        "term": "2003",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/541/739/"
+    },
+    {
+        "ID": 55161,
+        "name": "F. Hoffman-LaRoche, Ltd. v. Empagran S.A.",
+        "href": "https://api.oyez.org/cases/2003/03-724",
+        "view_count": 0,
+        "docket_number": "03-724",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1071468000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39064"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1082955600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39065"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1087189200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39066"
+            }
+        ],
+        "question": "<p>Under the Foreign Trade Antitrust Improvements Act of 1982, do Sherman Act claims apply to the effects of foreign price-fixing schemes if those schemes do not have domestic effects?<\/p>\n",
+        "citation": {
+            "volume": "542",
+            "page": "155",
+            "year": "2004",
+            "href": "https://api.oyez.org/case_citation/case_citation/19089"
+        },
+        "term": "2003",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/542/155/"
+    },
+    {
+        "ID": 55187,
+        "name": "Fellers v. United States",
+        "href": "https://api.oyez.org/cases/2003/02-6320",
+        "view_count": 101,
+        "docket_number": "02-6320",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1047276000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39140"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1071036000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39141"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1075096800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39142"
+            }
+        ],
+        "question": "<p>(1) Was the appellate court correct to rule that officers did not violate Fellers' Sixth Amendment right to counsel because officers did not interrogate him? (2) Should Fellers' statements in the jailhouse - given after police Mirandized him - be suppressed because they were fruits of an unconstitutional interview in his home?<\/p>\n",
+        "citation": {
+            "volume": "540",
+            "page": "519",
+            "year": "2004",
+            "href": "https://api.oyez.org/case_citation/case_citation/19115"
+        },
+        "term": "2003",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/540/519/"
+    },
+    {
+        "ID": 55136,
+        "name": "Lamie v. United States Trustee",
+        "href": "https://api.oyez.org/cases/2003/02-693",
+        "view_count": 0,
+        "docket_number": "02-693",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1047276000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38997"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1068444000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38998"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1075096800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38999"
+            }
+        ],
+        "question": "<p>Did Congress intend to omit bankruptcy attorneys from the list of people a corporation could pay during Chapter 7 bankruptcy proceedings?<\/p>\n",
+        "citation": {
+            "volume": "540",
+            "page": "526",
+            "year": "2004",
+            "href": "https://api.oyez.org/case_citation/case_citation/19065"
+        },
+        "term": "2003",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/540/526/"
+    },
+    {
+        "ID": 55038,
+        "name": "Clay v. United States",
+        "href": "https://api.oyez.org/cases/2002/01-1500",
+        "view_count": 0,
+        "docket_number": "01-1500",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    1042437600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38802"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1046757600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38803"
+            }
+        ],
+        "question": "<p>Does a judgment become \"final\" for postconviction relief when the appellate court issues its mandate affirming the conviction where a defendant in a federal prosecution takes an unsuccessful direct appeal from a judgment of conviction but does not next petition for a writ of certiorari from the U.S. Supreme Court?<\/p>\n",
+        "citation": {
+            "volume": "537",
+            "page": "522",
+            "year": "2003",
+            "href": "https://api.oyez.org/case_citation/case_citation/18967"
+        },
+        "term": "2002",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/537/522/"
+    },
+    {
+        "ID": 55044,
+        "name": "United States v. Bean",
+        "href": "https://api.oyez.org/cases/2002/01-704",
+        "view_count": 0,
+        "docket_number": "01-704",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    1034744400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38814"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1039500000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38815"
+            }
+        ],
+        "question": "<p>Does a federal district court, despite appropriation provisions barring the Bureau of Alcohol, Tobacco, and Firearms from acting on applications for relief from firearms disabilities from persons convicted of a felony, have the authority to grant such relief?<\/p>\n",
+        "citation": {
+            "volume": "537",
+            "page": "71",
+            "year": "2002",
+            "href": "https://api.oyez.org/case_citation/case_citation/18973"
+        },
+        "term": "2002",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/537/71/"
+    },
+    {
+        "ID": 55023,
+        "name": "Devlin v. Scardelletti",
+        "href": "https://api.oyez.org/cases/2001/01-417",
+        "view_count": 0,
+        "docket_number": "01-417",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    1017122400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38773"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1023685200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38774"
+            }
+        ],
+        "question": "<p>Does a nonnamed member of a class certified under Federal Rule of Civil Procedure 23(b)(1) have the power to appeal the approval of a settlement over objections he stated at the fairness hearing?<\/p>\n",
+        "citation": {
+            "volume": "536",
+            "page": "1",
+            "year": "2002",
+            "href": "https://api.oyez.org/case_citation/case_citation/18952"
+        },
+        "term": "2001",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/536/1/"
+    },
+    {
+        "ID": 54941,
+        "name": "Bartnicki v. Vopper",
+        "href": "https://api.oyez.org/cases/2000/99-1687",
+        "view_count": 501,
+        "docket_number": "99-1687",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    975996000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38621"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    990421200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38622"
+            }
+        ],
+        "question": "<p>Does the First Amendment provide protection to speech that discloses the contents of an illegally intercepted communication?<\/p>\n",
+        "citation": {
+            "volume": "532",
+            "page": "514",
+            "year": "2001",
+            "href": "https://api.oyez.org/case_citation/case_citation/18870"
+        },
+        "term": "2000",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/532/514/"
+    },
+    {
+        "ID": 54859,
+        "name": "Egelhoff v. Egelhoff",
+        "href": "https://api.oyez.org/cases/2000/99-1529",
+        "view_count": 0,
+        "docket_number": "99-1529",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    973663200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38462"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    985154400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38463"
+            }
+        ],
+        "question": "<p>Does the Employee Retirement Income Security Act of 1974 pre-empt a Washington statute provides that the designation of a spouse as the beneficiary of a nonprobate asset is revoked automatically upon divorce?<\/p>\n",
+        "citation": {
+            "volume": "532",
+            "page": "141",
+            "year": "2001",
+            "href": "https://api.oyez.org/case_citation/case_citation/18788"
+        },
+        "term": "2000",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/532/141/"
+    },
+    {
+        "ID": 54768,
+        "name": "Los Angeles Police Department v. United Reporting Publishing Corporation",
+        "href": "https://api.oyez.org/cases/1999/98-678",
+        "view_count": 0,
+        "docket_number": "98-678",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    939790800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/51675"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    944546400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/51676"
+            }
+        ],
+        "question": "<p> <\/p>\n<p>Does California's amended public record statute, under which an arrestee's address disclosed by governmental agency may not be used to sell a product or service, violate the First Amendment's protection of commercial speech?<\/p>\n",
+        "citation": {
+            "volume": "528",
+            "page": "32",
+            "year": "1999",
+            "href": "https://api.oyez.org/case_citation/case_citation/18697"
+        },
+        "term": "1999",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/528/32/"
+    },
+    {
+        "ID": 54769,
+        "name": "Norfolk Southern Railway Company v. Shanklin",
+        "href": "https://api.oyez.org/cases/1999/99-312",
+        "view_count": 0,
+        "docket_number": "99-312",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    951890400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38295"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    955947600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38296"
+            }
+        ],
+        "question": "<p>Does the Federal Railroad Safety Act of 1970 pre-empt tort claims, based on State statutory and common law, concerning a railroad's failure to maintain adequate warning devices at crossings where federal funds have participated in the installation of the devices?<\/p>\n",
+        "citation": {
+            "volume": "529",
+            "page": "344",
+            "year": "2000",
+            "href": "https://api.oyez.org/case_citation/case_citation/18698"
+        },
+        "term": "1999",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/529/344/"
+    },
+    {
+        "ID": 54761,
+        "name": "Cunningham v. Hamilton County",
+        "href": "https://api.oyez.org/cases/1998/98-727",
+        "view_count": 0,
+        "docket_number": "98-727",
+        "timeline": [
+            {
+                "event": "Argued",
+                "dates": [
+                    924498000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38281"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    929336400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/38282"
+            }
+        ],
+        "question": "<p>Is an order imposing sanctions on an attorney, pursuant to Federal Rule of Civil Procedure 37(a)(4), a final decision and, thus, immediately appealable?<\/p>\n",
+        "citation": {
+            "volume": "527",
+            "page": "198",
+            "year": "1999",
+            "href": "https://api.oyez.org/case_citation/case_citation/18690"
+        },
+        "term": "1998",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/527/198/"
+    }
+]

@@ -1,0 +1,729 @@
+[
+    {
+        "ID": 62990,
+        "name": "Mount Lemmon Fire District v. Guido",
+        "href": "https://api.oyez.org/cases/2018/17-587",
+        "view_count": 1310,
+        "docket_number": "17-587",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1519624800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54261"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1538370000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54354"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1541484000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54391"
+            }
+        ],
+        "question": "<p>Under the ADEA, does the same twenty-employee minimum that applies to private employers also apply to political subdivisions of a state, as the Sixth, Seventh, Eighth, and Tenth Circuits have held, or does the ADEA apply instead to all state political subdivisions of any size, as the Ninth Circuit held in this case?<\/p>\n",
+        "citation": {
+            "volume": "586",
+            "page": null,
+            "year": "2018",
+            "href": "https://api.oyez.org/case_citation/case_citation/27591"
+        },
+        "term": "2018",
+        "description": "A case in which the Court held that the ADEA applies to all state political subdivisions of any size, resolving a circuit split between the Ninth Circuit and four other circuits.",
+        "justia_url": null
+    },
+    {
+        "ID": 62754,
+        "name": "Sessions v. Dimaya",
+        "href": "https://api.oyez.org/cases/2017/15-1498",
+        "view_count": 561,
+        "docket_number": "15-1498",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1475125200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53890"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1484632800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53956"
+            },
+            {
+                "event": "Reargued",
+                "dates": [
+                    1506920400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54097"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1523941200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54252"
+            }
+        ],
+        "question": "<p>Is the Immigration and Nationality Act’s “crime of violence” provision unconstitutionally vague under the Due Process Clause of the Fifth Amendment?<\/p>\n",
+        "citation": {
+            "volume": "584",
+            "page": null,
+            "year": "2018",
+            "href": "https://api.oyez.org/case_citation/case_citation/27459"
+        },
+        "term": "2017",
+        "description": "A case in which the Court struck down the Immigration and Nationality Act’s “crime of violence” provision as unconstitutionally vague in violation of the Due Process Clause of the Fifth Amendment.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/584/15-1498/"
+    },
+    {
+        "ID": 62903,
+        "name": "United States v. Microsoft Corporation",
+        "href": "https://api.oyez.org/cases/2017/17-2",
+        "view_count": 933,
+        "docket_number": "17-2",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1508130000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54135"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1519711200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54184"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1523941200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54250"
+            }
+        ],
+        "question": "<p>Is an email provider who has been served with a warrant required, under 18 U.S.C. § 2703, to provide the federal government with emails, even when the email records are stored exclusively outside the United States?<\/p>\n",
+        "citation": {
+            "volume": "584",
+            "page": null,
+            "year": "2018",
+            "href": "https://api.oyez.org/case_citation/case_citation/27545"
+        },
+        "term": "2017",
+        "description": "A case in which, following the enactment of the Clarifying Lawful Overseas Use of Data Act, the Court vacated the judgment on review and remanded with instructions to first vacate the district court's contempt finding and its denial of Microsoft's motion to quash, and then to direct the district court to dismiss as moot a case regarding whether a provision of the Stored Communications Act, 18 U.S.C. § 2703, requires that an email provider who has been served with a warrant provide the federal government with emails, even when the email records are stored exclusively outside the United States.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/584/17-2/"
+    },
+    {
+        "ID": 62776,
+        "name": "County of Los Angeles v. Mendez",
+        "href": "https://api.oyez.org/cases/2016/16-369",
+        "view_count": 469,
+        "docket_number": "16-369",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1480658400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53926"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1490158800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53993"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1496120400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/54041"
+            }
+        ],
+        "question": "<ol>\n<li>May an officer be found liable under the Ninth Circuit’s provocation rule where it is determined that the officer’s use of force was reasonable and not excessive<\/li>\n<li>Does an incident which leads to a reasonable use of force negate a prior Fourth Amendment unlawful entry violation?<\/li>\n<\/ol>\n",
+        "citation": {
+            "volume": "581",
+            "page": null,
+            "year": "2017",
+            "href": "https://api.oyez.org/case_citation/case_citation/27476"
+        },
+        "term": "2016",
+        "description": "A case in which the Court determined that the U.S. Court of Appeals for the Ninth Circuit’s provocation rule has no basis in the Fourth Amendment, and that the lower court erroneously conflated multiple Fourth Amendment violation claims.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-369/"
+    },
+    {
+        "ID": 62731,
+        "name": "Lightfoot v. Cendant Mortgage Corporation",
+        "href": "https://api.oyez.org/cases/2016/14-1055",
+        "view_count": 0,
+        "docket_number": "14-1055",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1467090000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53853"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1478584800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53912"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1484719200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53964"
+            }
+        ],
+        "question": "<ol><li>Does language “to sue or and be sued, and to complain and to defend, in any court of competent jurisdiction, State or Federal\" in the federal charter of the Federal National Mortgage Association (Fannie Mae) confer subject matter jurisdiction to federal court in every case in which Fannie Mae is a plaintiff or defendant?<\/li>\n<li>Should the court’s decision in <em>American National Red Cross v. S.G. <\/em>-- which held that, when language in a federal charter expressly authorizes an organization to sue and be sued in federal courts, that language grants federal courts subject matter jurisdiction -- be overruled?<\/li>\n<\/ol>",
+        "citation": {
+            "volume": "580",
+            "page": null,
+            "year": "2017",
+            "href": "https://api.oyez.org/case_citation/case_citation/27442"
+        },
+        "term": "2016",
+        "description": "A case in which the Court determined that language in the federal charter of the Federal National Mortgage Association (Fannie Mae) that authorizes the organization to sue and be sued does not mean that federal courts have subject matter jurisdiction over any case in which Fannie Mae is a plaintiff or defendant, and the Supreme Court’s precedent in American National Red Cross v. S.G. doe not require a different result.\r\n",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/580/14-1055/"
+    },
+    {
+        "ID": 62652,
+        "name": "Kirtsaeng v. John Wiley & Sons",
+        "href": "https://api.oyez.org/cases/2015/15-375",
+        "view_count": 0,
+        "docket_number": "15-375",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1452837600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53394"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1461560400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53435"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1466053200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53779"
+            }
+        ],
+        "question": "<p>What constitutes the appropriate standard for awarding attorneys’ fees to a prevailing party under Section 505 of the Copyright Act?<\/p>\n",
+        "citation": {
+            "volume": "579",
+            "page": null,
+            "year": "2016",
+            "href": "https://api.oyez.org/case_citation/case_citation/27400"
+        },
+        "term": "2015",
+        "description": "A case in which the Court determined that, when deciding whether to grant attorney’s fees under Section 505 of the Copyright Act, courts should give substantial weight to the objective reasonableness of the losing party’s position, but that determination should not be the controlling factor.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/579/15-375/"
+    },
+    {
+        "ID": 62635,
+        "name": "Sheriff v. Gillie",
+        "href": "https://api.oyez.org/cases/2015/15-338",
+        "view_count": 0,
+        "docket_number": "15-338",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1449813600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53354"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1459227600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53419"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1463374800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/53591"
+            }
+        ],
+        "question": "<ol><li>Are special counsel appointed by the state Attorney General to collect debts are “state officers” under the meaning of the Federal Debt Collection Practices Act?<\/li>\n<li>Is it materially misleading for special counsel to use Attorney General letterhead to convey that they are collecting debts owed to the state on the Attorney General’s behalf?<\/li>\n<\/ol>",
+        "citation": {
+            "volume": "578",
+            "page": null,
+            "year": "2016",
+            "href": "https://api.oyez.org/case_citation/case_citation/27391"
+        },
+        "term": "2015",
+        "description": "A case in which the Court held that, regardless of whether special counsel appointed by the Attorney General to collect debts are “state officers” under the Federal Debt Collection Practices Act, the use of Attorney General letterhead by such special counsel is not materially misleading.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/578/15-338/"
+    },
+    {
+        "ID": 56058,
+        "name": "City of Los Angeles v. Patel",
+        "href": "https://api.oyez.org/cases/2014/13-1175",
+        "view_count": 282,
+        "docket_number": "13-1175",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1413781200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41631"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1425362400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41632"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1434949200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/52766"
+            }
+        ],
+        "question": "<p>Is a municipal ordinance that allows police to inspect hotel records without a warrant inconsistent with the Fourth Amendment's privacy expectations?<\/p>\n",
+        "citation": {
+            "volume": "576",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/27104"
+        },
+        "term": "2014",
+        "description": "A case in which the Court determined that a municipal ordinance that allows the police to inspect hotel records without a warrant violates the Fourth Amendment’s prohibition against unreasonable searches unless the business owner is given the opportunity for pre-compliance review.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/"
+    },
+    {
+        "ID": 56053,
+        "name": "United States v. Kwai Fun Wong",
+        "href": "https://api.oyez.org/cases/2014/13-1074",
+        "view_count": 0,
+        "docket_number": "13-1074",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1404104400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41622"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1418191200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41623"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1429678800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41789"
+            }
+        ],
+        "question": "<p>Are the Federal Tort Claims Act’s statute of limitations provisions subject to equitable tolling?<\/p>\n",
+        "citation": {
+            "volume": "575",
+            "page": null,
+            "year": "2015",
+            "href": "https://api.oyez.org/case_citation/case_citation/20976"
+        },
+        "term": "2014",
+        "description": "A case in which the Court held that the statutes of limitations provisions of the Federal Tort Claims Act are subject to equitable tolling.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/575/13-1074/"
+    },
+    {
+        "ID": 55902,
+        "name": "Kirtsaeng v. John Wiley & Sons, Inc.",
+        "href": "https://api.oyez.org/cases/2012/11-697",
+        "view_count": 333,
+        "docket_number": "11-697",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1334552400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41069"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1351486800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41070"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1363669200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/41071"
+            }
+        ],
+        "question": "<p>If a copy was made legally, acquired abroad and then imported into the United States, can that foreign-made copy ever be resold within the United States without the copyright owner's permission under Section 602(a)(1) and Section 109(a) of the copyright act?<\/p>\n",
+        "citation": {
+            "volume": "568",
+            "page": "519",
+            "year": "2013",
+            "href": "https://api.oyez.org/case_citation/case_citation/19824"
+        },
+        "term": "2012",
+        "description": "A case in which the Court found that there is not geographical restriction on the \"first sale\" copyright doctrine.",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/568/11-697/"
+    },
+    {
+        "ID": 55782,
+        "name": "Fox v. Vice",
+        "href": "https://api.oyez.org/cases/2010/10-114",
+        "view_count": 0,
+        "docket_number": "10-114",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1288587600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40745"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1300770000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40746"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1307336400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40747"
+            }
+        ],
+        "question": "<p>Can a court award attorneys' fees to civil rights defendants based on a dismissal of a claim when the plaintiff has asserted other nonfrivolous claims?<\/p>\n",
+        "citation": {
+            "volume": "563",
+            "page": "826",
+            "year": "2011",
+            "href": "https://api.oyez.org/case_citation/case_citation/19704"
+        },
+        "term": "2010",
+        "description": "A case in which the Court held that a court may award attorney's fees to civil rights defendants when the plaintiff's suit involves frivolous and non-frivolous claims, but only for the costs incurred due to the frivolous claims. ",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/563/10-114/"
+    },
+    {
+        "ID": 55804,
+        "name": "Nevada Commission on Ethics v. Carrigan",
+        "href": "https://api.oyez.org/cases/2010/10-568",
+        "view_count": 0,
+        "docket_number": "10-568",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1294380000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40795"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1303880400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40796"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1307941200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40797"
+            }
+        ],
+        "question": "<p>Does the First Amendment subject state restrictions on voting by elected officials to strict scrutiny?<\/p>\n",
+        "citation": {
+            "volume": "564",
+            "page": null,
+            "year": "2011",
+            "href": "https://api.oyez.org/case_citation/case_citation/19726"
+        },
+        "term": "2010",
+        "description": "A case in which the Court held that the Nevada law requiring elected officials to disqualify themselves when they are asked to vote on matters that present a conflict of interest was constitutional.  ",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/564/10-568/"
+    },
+    {
+        "ID": 55804,
+        "name": "Nevada Commission on Ethics v. Carrigan",
+        "href": "https://api.oyez.org/cases/2010/10-568",
+        "view_count": 0,
+        "docket_number": "10-568",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1294380000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40795"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1303880400
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40796"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1307941200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40797"
+            }
+        ],
+        "question": "<p>Does the First Amendment subject state restrictions on voting by elected officials to strict scrutiny?<\/p>\n",
+        "citation": {
+            "volume": "564",
+            "page": null,
+            "year": "2011",
+            "href": "https://api.oyez.org/case_citation/case_citation/19726"
+        },
+        "term": "2010",
+        "description": "A case in which the Court held that the Nevada law requiring elected officials to disqualify themselves when they are asked to vote on matters that present a conflict of interest was constitutional.  ",
+        "justia_url": "https://supreme.justia.com/cases/federal/us/564/10-568/"
+    },
+    {
+        "ID": 55597,
+        "name": "Van de Kamp v. Goldstein",
+        "href": "https://api.oyez.org/cases/2008/07-854",
+        "view_count": 0,
+        "docket_number": "07-854",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1208149200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40265"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1225864800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40266"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1232949600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/40267"
+            }
+        ],
+        "question": "<p>In a suit brought by a plaintiff alleging that he was wrongfully convicted of murder, are federal prosecutors entitled to absolute immunity against charges that they failed to satisfactorily share information regarding the testimony of a jailhouse informant during the course of the trial?<\/p>\n",
+        "citation": {
+            "volume": "555",
+            "page": null,
+            "year": "2009",
+            "href": "https://api.oyez.org/case_citation/case_citation/20823"
+        },
+        "term": "2008",
+        "description": "A case in which the Court reaffirmed its holding in Imbler, stating that officers of the court (including federal prosecutors) are immune from liability \"for actions intimately associated with the judicial phase of the criminal process.\"",
+        "justia_url": null
+    },
+    {
+        "ID": 55480,
+        "name": "Metropolitan Life Ins. Co. v. Glenn",
+        "href": "https://api.oyez.org/cases/2007/06-923",
+        "view_count": 0,
+        "docket_number": "06-923",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1200636000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39941"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1208926800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39942"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1213851600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39943"
+            }
+        ],
+        "question": "<p>Does an insurance carrier, acting both as the entity determining when awards are to be paid and actually funding those awards, have the right to represent to a court that an individual is disabled when the insurance carrier separately determines for other purposes that the individual is in fact not disabled?<\/p>\n",
+        "citation": {
+            "volume": "554",
+            "page": "105",
+            "year": "2008",
+            "href": "https://api.oyez.org/case_citation/case_citation/19403"
+        },
+        "term": "2007",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/554/105/"
+    },
+    {
+        "ID": 55423,
+        "name": "Travelers Casualty & Surety Co. of America v. Pacific Gas & Electric Co.",
+        "href": "https://api.oyez.org/cases/2006/05-1429",
+        "view_count": 0,
+        "docket_number": "05-1429",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1160110800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39780"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1168927200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39781"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1174366800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39782"
+            }
+        ],
+        "question": "<p>Can a litigant in a bankruptcy case involving federal bankruptcy law collect attorneys' fees that are granted by a contract or a state law?<\/p>\n",
+        "citation": {
+            "volume": "549",
+            "page": "443",
+            "year": "2007",
+            "href": "https://api.oyez.org/case_citation/case_citation/20662"
+        },
+        "term": "2006",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/549/443/"
+    },
+    {
+        "ID": 55342,
+        "name": "Rumsfeld v. Forum for Academic and Institutional Rights, Inc.",
+        "href": "https://api.oyez.org/cases/2005/04-1152",
+        "view_count": 356,
+        "docket_number": "04-1152",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1115010000
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39568"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1133848800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39569"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1141624800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39570"
+            }
+        ],
+        "question": "<p>Does the Solomon Amendment, which witholds certain federal funds from colleges and universities that restrict the access of military recruiters to students, violate the First Amendment?<\/p>\n",
+        "citation": {
+            "volume": "547",
+            "page": "47",
+            "year": "2006",
+            "href": "https://api.oyez.org/case_citation/case_citation/20579"
+        },
+        "term": "2005",
+        "description": null,
+        "justia_url": "https://supreme.justia.com/cases/federal/us/547/47/"
+    },
+    {
+        "ID": 55278,
+        "name": "Merck KGaA v. Integra Lifesciences I, Ltd.",
+        "href": "https://api.oyez.org/cases/2004/03-1237",
+        "view_count": 0,
+        "docket_number": "03-1237",
+        "timeline": [
+            {
+                "event": "Granted",
+                "dates": [
+                    1105077600
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39396"
+            },
+            {
+                "event": "Argued",
+                "dates": [
+                    1113973200
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39397"
+            },
+            {
+                "event": "Decided",
+                "dates": [
+                    1118638800
+                ],
+                "href": "https://api.oyez.org/case_timeline/case_timeline/39398"
+            }
+        ],
+        "question": "<p>Did federal law allow the use of patented inventions in preclinical research, the results of which were not ultimately included in a submission to the FDA?<\/p>\n",
+        "citation": {
+            "volume": "543",
+            "page": "1041",
+            "year": "2005",
+            "href": "https://api.oyez.org/case_citation/case_citation/20542"
+        },
+        "term": "2004",
+        "description": null,
+        "justia_url": null
+    }
+]
