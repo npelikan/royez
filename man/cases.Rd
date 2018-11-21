@@ -2,14 +2,20 @@
 % Please edit documentation in R/cases.R
 \name{cases}
 \alias{cases}
+\alias{cases.OyezAdvocate}
 \title{Get cases for an \code{Oyez} object}
 \usage{
 cases(x, ...)
+
+\method{cases}{OyezAdvocate}(x, ...)
 }
 \arguments{
 \item{x}{the Oyez object}
 
-\item{...}{other arguments}
+\item{...}{other arguments passed on to methods}
+}
+\value{
+an object of class OyezCaseList
 }
 \description{
 Get cases for an \code{Oyez} object

@@ -2,6 +2,7 @@
 
 S3method(advocates,OyezCase)
 S3method(advocates,OyezCaseList)
+S3method(cases,OyezAdvocate)
 S3method(oyez_cases,data.frame)
 S3method(oyez_cases,list)
 S3method(transcript,OyezCase)
