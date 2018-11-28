@@ -1,27 +1,42 @@
+#' Converts an OyezTranscript object into a data.frame
+#'
+#' @param x an OyezTranscript object
+#'
+#' @return a data.frame object
+#'
+#' @examples
+#' \dontrun{
+#' a <- oyez_case(term = 2014, docket_number='13-1175')
+#' t <- transcript(a)
+#' as.data.frame(t)
+#' }
 
-#' @importFrom purrr map map_dfr pmap_dfr
 as.data.frame.OyezTranscript <- function(x){
-    pt <- purrr::map_dfr(x[['sections']], function(sec){
 
-        purrr::map2_dfr(sec, names(sec),
-                        unpack_turns_)
-    })
-    pt
+   unpack_sections_(x)
 }
 
-#' @importFrom map2_dfr map_chr
-unpack_turns_ <- function(turns, nm){
-    td <- purrr::map2_dfr(turns, 1:length(turns), function(t, n){
-        sn <- t[['speaker']][['name']]
+#' @importFrom purrr map2_dfr
+unpack_sections_ <- function(x){
+    pt <- purrr::map2_dfr(x[['sections']], names(x[['sections']]),
+                          function(sec, secnm){
 
-        tx <- purrr::map_chr(t[['text_blocks']], 'text')
+                              td <- purrr::map2_dfr(sec, 1:length(sec),
+                                                    unpack_turns_)
+                              td$section <- secnm
+                              td
+                          })
+}
 
-        data.frame(sequence = n,
-                   speaker_name = sn,
-                   text = tx,
-                   stringsAsFactors = F)
-    })
+#' @importFrom purrr map_chr
+unpack_turns_ <- function(t, n){
+    sn <- t[['speaker']][['name']]
 
-    td$section <- nm
-    td
+    tx <- paste(purrr::map_chr(t[['text_blocks']], 'text'),
+                collapse = " ")
+
+    data.frame(sequence = n,
+               speaker_name = sn,
+               text = tx,
+               stringsAsFactors = F)
 }

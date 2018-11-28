@@ -6,8 +6,9 @@ with_mock_api({
         t <- transcript(a)
         df <- as.data.frame(t)
         expect_is(df, 'data.frame')
-        expect_named(df, c('sequence', 'speaker_name', 'text', 'case_name', 'section'),
+        expect_named(df, c('sequence', 'speaker_name', 'text', 'section'),
                      ignore.order = T)
+        expect_equal(nrow(df), 348)
     })
 })
 
