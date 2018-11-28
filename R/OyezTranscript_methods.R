@@ -10,7 +10,7 @@
 #' t <- transcript(a)
 #' as.data.frame(t)
 #' }
-
+#' @export
 as.data.frame.OyezTranscript <- function(x){
 
    unpack_sections_(x)
