@@ -19,7 +19,7 @@ as.data.frame.OyezTranscript <- function(x, ...){
 
 #' @importFrom purrr map2_dfr
 unpack_sections_ <- function(x){
-    pt <- purrr::map2_dfr(x[['sections']], names(x[['sections']]),
+    pt <- purrr::map2_dfr(x[["sections"]], names(x[["sections"]]),
                           function(sec, secnm){
 
                               td <- purrr::map2_dfr(sec, 1:length(sec),
@@ -31,9 +31,9 @@ unpack_sections_ <- function(x){
 
 #' @importFrom purrr map_chr
 unpack_turns_ <- function(t, n){
-    sn <- t[['speaker']][['name']]
+    sn <- t[["speaker"]][["name"]]
 
-    tx <- paste(purrr::map_chr(t[['text_blocks']], 'text'),
+    tx <- paste(purrr::map_chr(t[["text_blocks"]], "text"),
                 collapse = " ")
 
     data.frame(sequence = n,

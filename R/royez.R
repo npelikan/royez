@@ -12,7 +12,7 @@ NULL
 }
 
 dev_warning_ <- function(version){
-    if (version == '0.0.0.9000'){
+    if (version == "0.0.0.9000"){
         message("The version of royez you are using is a pre-release, development version.\n",
                 "Functionality may be removed, function names may change, and outputs may differ in future releases.\n",
                 "Use at your own risk.\n")

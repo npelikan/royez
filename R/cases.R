@@ -7,7 +7,7 @@
 #'
 #' @export
 cases <- function(x, ...){
-    UseMethod('cases')
+    UseMethod("cases")
 }
 
 #' @rdname cases
@@ -22,6 +22,7 @@ cases.OyezAdvocate <- function(x, ...){
 #' @importFrom glue glue
 #' @importFrom httr content GET
 #' @importFrom purrr map
+#' @include oyez_case.R
 get_advocate_cases_ <- function(adv){
     adv_name <- adv$advocate$name
 

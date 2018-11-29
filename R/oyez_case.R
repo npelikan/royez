@@ -22,7 +22,7 @@ oyez_case <- function(term, docket_number){
 get_oyez_case_ <- function(case_url){
     res <- httr::content(httr::GET(case_url))
 
-    if(!'ID' %in% names(res)){
+    if (!"ID" %in% names(res)){
         stop("No case found with that identifier.", call. = FALSE)
     }
 
@@ -70,7 +70,7 @@ get_oyez_case_ <- function(case_url){
 #'
 #' @export
 oyez_cases <- function(x, ...){
-    UseMethod('oyez_cases')
+    UseMethod("oyez_cases")
 }
 
 
@@ -80,7 +80,7 @@ oyez_cases <- function(x, ...){
 #' @export
 oyez_cases.data.frame <- function(x, ...){
     if (any(!c("term", "docket_number") %in% names(x))) {
-        stop('data.frame inputs to `oyez_cases()` must contain columns term and docket_number',
+        stop("data.frame inputs to `oyez_cases()` must contain columns term and docket_number",
              call. = F)
     }
     # turns inevitable factors to characters
@@ -100,8 +100,8 @@ oyez_cases.list <- function(x, ...){
 
     get_cases_ <- function(i){
         if (any(!c("term", "docket_number") %in% names(i))) {
-            stop('list inputs to `oyez_cases()` must be a list of lists \n
-                 with all sublists containing fields term and docket_number',
+            stop("list inputs to `oyez_cases()` must be a list of lists \n
+                 with all sublists containing fields term and docket_number",
                  call. = F)
         }
 

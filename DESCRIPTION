@@ -21,3 +21,10 @@ Imports:
     tibble,
     dplyr
 RoxygenNote: 6.0.1
+Collate: 
+    'OyezTranscript_methods.R'
+    'advocates.R'
+    'oyez_case.R'
+    'cases.R'
+    'royez.R'
+    'transcript.R'

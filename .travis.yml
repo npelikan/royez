@@ -2,12 +2,19 @@
 
 language: R
 
-os:
-  - linux
-r:
-  - oldrel
-  - release
-  - 3.3
+stages:
+    - name: base
+      os: linux
+      r: release
+    - name: live
+      if: branch = master OR type = pull_request
+      os:
+        - linux
+        - osx
+      r:
+        - oldrel
+        - release
+        - 3.3
 
 sudo: false
 cache: packages

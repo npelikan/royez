@@ -25,7 +25,7 @@ Gets transcripts for OyezCase objects or OyezCaseLists
 }
 \examples{
 \dontrun{
-a <- oyez_case(term = 2014, docket_number='13-1175')
+a <- oyez_case(term = 2014, docket_number="13-1175")
 transcript(a)
 }
 }

@@ -7,7 +7,7 @@
 #'
 #' @export
 advocates <- function(x, ...){
-    UseMethod('advocates')
+    UseMethod("advocates")
 }
 
 #' @rdname advocates

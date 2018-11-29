@@ -8,11 +8,11 @@
 #'
 #' @examples
 #' \dontrun{
-#' a <- oyez_case(term = 2014, docket_number='13-1175')
+#' a <- oyez_case(term = 2014, docket_number="13-1175")
 #' transcript(a)
 #' }
 transcript <- function(x, ...){
-    UseMethod('transcript')
+    UseMethod("transcript")
 }
 
 #' @rdname transcript
@@ -36,22 +36,22 @@ transcript.OyezCaseList <- function(x, ...){
 #' @importFrom httr GET content
 #' @importFrom purrr map_chr map flatten
 transcript_ <- function(case){
-    case_name <- case[['name']]
-    t_locs <- purrr::map_chr(case[['oral_argument_audio']], 'href')
+    case_name <- case[["name"]]
+    t_locs <- purrr::map_chr(case[["oral_argument_audio"]], "href")
 
     t_raw <- purrr::map(t_locs, function(x){
         httr::content(httr::GET(x))
     })
 
-    t_names <- purrr::map_chr(t_raw, 'title')
+    t_names <- purrr::map_chr(t_raw, "title")
     t_turns <- purrr::map(t_raw, function(x){
-        purrr::flatten(purrr::map(x[['transcript']][['sections']], "turns"))
+        purrr::flatten(purrr::map(x[["transcript"]][["sections"]], "turns"))
     })
     names(t_turns) <- t_names
 
     out <- list(sections = t_turns,
                 case_name = case_name)
-    class(out) <- 'OyezTranscript'
+    class(out) <- "OyezTranscript"
 
     out
 }
