@@ -4,17 +4,25 @@ language: R
 
 stages:
     - name: base
-      os: linux
-      r: release
     - name: live
       if: branch = master OR type = pull_request
-      os:
-        - linux
-        - osx
-      r:
-        - oldrel
-        - release
-        - 3.3
+
+jobs:
+    include:
+        - stage: base
+          os: linux
+          r: release
+        - stage: live
+          os: linux
+          r: oldrel
+        - os: linux
+          r: 3.3
+        - os: osx
+          r: release
+        - os: osx
+          r: oldrel
+        - os: osx
+          r: 3.3
 
 sudo: false
 cache: packages
