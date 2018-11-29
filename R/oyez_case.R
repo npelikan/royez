@@ -9,14 +9,19 @@
 #' \dontrun{oyez_case(term = 2014, docket_number='13-1175')}
 #'
 #' @importFrom glue glue
-#' @importFrom httr content GET
 #'
 #' @export
 oyez_case <- function(term, docket_number){
+    get_oyez_case_(glue::glue("https://api.oyez.org/cases/{term}/{docket_number}"))
+}
 
-    res <- httr::content(httr::GET(glue::glue("https://api.oyez.org/cases/{term}/{docket_number}")))
 
-    ## stops if unnamed
+#' Splitting this internal function so it can work with other methods
+#' @keywords internal
+#' @importFrom httr content GET
+get_oyez_case_ <- function(case_url){
+    res <- httr::content(httr::GET(case_url))
+
     if(!'ID' %in% names(res)){
         stop("No case found with that identifier.", call. = FALSE)
     }
@@ -24,8 +29,6 @@ oyez_case <- function(term, docket_number){
     class(res) <- "OyezCase"
     res
 }
-
-
 
 
 #' Get multiple oyez cases
@@ -72,6 +75,7 @@ oyez_cases <- function(x, ...){
 
 
 #' @rdname oyez_cases
+#' @keywords internal
 #' @importFrom purrr pmap modify_if
 #' @export
 oyez_cases.data.frame <- function(x, ...){
@@ -89,6 +93,7 @@ oyez_cases.data.frame <- function(x, ...){
 
 
 #' @rdname oyez_cases
+#' @keywords internal
 #' @importFrom purrr map
 #' @export
 oyez_cases.list <- function(x, ...){

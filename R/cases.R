@@ -18,14 +18,22 @@ cases.OyezAdvocate <- function(x, ...){
 
 
 ## helper functions
+#' @keywords internal
 #' @importFrom glue glue
 #' @importFrom httr content GET
+#' @importFrom purrr map
 get_advocate_cases_ <- function(adv){
     adv_name <- adv$advocate$name
 
     case_endpoint <- glue::glue("{adv$advocate$href}/cases")
 
-    adv_cases <- httr::content(httr::GET(case_endpoint))
+    adv_case_endpoints <- purrr::map(
+        httr::content(httr::GET(case_endpoint)),
+        "href"
+        )
+
+    adv_cases <- purrr::map(adv_case_endpoints, get_oyez_case_)
+
     class(adv_cases) <- "OyezCaseList"
     adv_cases
 }

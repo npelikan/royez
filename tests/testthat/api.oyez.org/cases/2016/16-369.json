@@ -1,34 +1,34 @@
 {
-    "ID": 56058,
-    "name": "City of Los Angeles v. Patel",
-    "href": "https://api.oyez.org/cases/2014/13-1175",
-    "view_count": 300,
-    "docket_number": "13-1175",
+    "ID": 62776,
+    "name": "County of Los Angeles v. Mendez",
+    "href": "https://api.oyez.org/cases/2016/16-369",
+    "view_count": 459,
+    "docket_number": "16-369",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
-    "first_party": "City of Los Angeles",
-    "second_party": "Naranjibhai Patel, et al.",
+    "first_party": "County of Los Angeles, et al.",
+    "second_party": "Angel Mendez, et al.",
     "timeline": [
         {
             "event": "Granted",
             "dates": [
-                1413781200
+                1480658400
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/41631"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53926"
         },
         {
             "event": "Argued",
             "dates": [
-                1425362400
+                1490158800
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/41632"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53993"
         },
         {
             "event": "Decided",
             "dates": [
-                1434949200
+                1496120400
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/52766"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/54041"
         }
     ],
     "lower_court": {
@@ -36,9 +36,9 @@
         "name": "United States Court of Appeals for the Ninth Circuit",
         "href": "https://api.oyez.org/taxonomy/term/5"
     },
-    "facts_of_the_case": "<p>Naranjibhai and Ramilaben Patel are owners and operators of motels in Los Angeles. The Los Angeles Municipal Code (LAMC) requires motel operators to keep records with specified information about their guests. The LAMC also authorizes police officers to inspect hotel records at any time without a search warrant. The Patels filed suit and argued that the provision violated their Fourth Amendment protections against unreasonable searches. The city of Los Angeles argued that motels are \"closely regulated\" businesses and are therefore subject to warrantless inspections.<\/p>\n<p>The district court determined that motels were not subjected to the same kind of pervasive and regular regulations as other recognized \"closely regulated\" businesses. Nonetheless, the court held that motels do not have an ownership interest that gives rise to a privacy right in their records because the records were created to comply with the ordinance. The U.S. Court of Appeals for the Ninth Circuit initially affirmed, but later reversed in rehearing en banc. The appellate court held that the hotel records were private \"papers\" protected by the Fourth Amendment and that the LAMC's warrantless search provision was unreasonable because it does not provide for pre-compliance judicial review of an officer's demand to inspect a motel's records.<\/p>\n",
-    "question": "<p>Is a municipal ordinance that allows police to inspect hotel records without a warrant inconsistent with the Fourth Amendment's privacy expectations?<\/p>\n",
-    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion of the 5-4 majority. The Court held that an individual may challenge a statute for violating the Constitution on its face without needing to allege unconstitutional enforcement, and that the municipal ordinance in question is unconstitutional on its face because it does not allow for hotel operators to engage in pre-compliance review by questioning the reasonableness of the subpoena in district court. The type of search the municipal ordinance authorizes is an administrative one, which means that its purpose is to ensure that the hotel operators are complying with the record requirement, and judicial precedent has held that there must be an opportunity for the subpoenaed party to contest the subpoena for an administrative search before penalties are imposed. Such pre-compliance review is necessary to ensure that the search is not a pretext to harass the business owner. The Court also held that hotels are not a “closely regulated” business and therefore do not fall under that exception to the warrant requirement.<\/p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the municipal ordinance in question is constitutional under the Fourth Amendment in most, if not all, of its applications because warrantless searches are not unreasonable under certain conditions. One of those conditions is when the premises to be searched is that of a closely regulated business, as long as the regulatory scheme of which the search is a part furthers a substantial government interest, the search is necessary to further the regulatory scheme, and the regulatory scheme provides a constitutionally adequate substitute for a warrant. Because hotels have a long tradition of being closely regulated and the municipal ordinance in question satisfies the conditions of a regulatory scheme for closely regulated businesses, the unwarranted search of hotel records is not unreasonable. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that, in order to hold a statute unconstitutional on its face, the Court must find that the statute is unconstitutional in every application. Because there are many circumstances in which the municipal ordinance in question could be applied constitutionally, relief should only be granted in cases when applying the ordinance would conflict with the Constitution. Justice Thomas joined in the dissent.<\/p>\n",
+    "facts_of_the_case": "<p dir=\"ltr\">In October 2010, Deputies Christopher Conley and Jennifer Pederson of the Los Angeles County Sheriff’s Department responded to a tip from an informant that wanted parolee Ronnie O’Dell had been seen in front of the nearby residence of Paula Hughes. The officers were informed that Angel Mendez and Jennifer Lynn Garcia lived together in the backyard of the Hughes residence. Although they did not have a search warrant, other officers directed Deputies Conley and Pederson to search the backyard. After determining that O’Dell was not in any of the three storage sheds in Hughes’ backyard, the deputies proceeded to a wooden shed surrounded by an A/C unit, clothes locker, clothes, and other belongings. The deputies did not knock and announce their presence. Deputy Conley, upon opening the door, saw the silhouette of a person holding a rifle through a curtain in the shed. Conley yelled “Gun!” and both deputies proceeded to shoot Mendez and Garcia. Whether Mendez was merely moving the gun or was pointing it at the deputies was subject to conflicting testimony at trial. As a result, Mendez required amputation of his right leg below the knee, and Garcia was shot in the back. <\/p>\n<p dir=\"ltr\"> <\/p>\n<p dir=\"ltr\">Mendez and Garcia sued Conley and Pederson and alleged that the deputies, in their official capacity, deprived them of their Fourth Amendment rights by performing an unjustified warrantless search and that the deputies failed to adhere to the knock-and-announce rule, which requires that officers announce their presence before they enter a home. The district court found for the plaintiffs on both these allegations and also held that, although the officers’ use of force was reasonable under the circumstances, they were liable for the shooting under the Ninth Circuit’s provocation rule. That rule holds an officer liable for use of deadly force where the officer intentionally or recklessly provokes a violent confrontation via a Fourth Amendment violation. The U.S. Court of Appeals for the Ninth Circuit affirmed the lower court’s determination that the search violated the Fourth Amendment but reversed the knock-and-announce rule holding that because there was no controlling Ninth Circuit precedent on whether officers must announce themselves again at a separate residence on the same property.  The appellate court also held that the officers were liable under the provocation rule because their unjustified search of the occupied shed led to the shooting.<\/p>\n",
+    "question": "<ol>\n<li>May an officer be found liable under the Ninth Circuit’s provocation rule where it is determined that the officer’s use of force was reasonable and not excessive<\/li>\n<li>Does an incident which leads to a reasonable use of force negate a prior Fourth Amendment unlawful entry violation?<\/li>\n<\/ol>\n",
+    "conclusion": "<p dir=\"ltr\">The U.S. Court of Appeals for the Ninth Circuit’s provocation rule has no basis in the Fourth Amendment, and the lower court erroneously conflated multiple Fourth Amendment violation claims. Justice Samuel A. Alito, Jr., delivered the opinion for the 8-0 majority. The Court held that provocation rule essentially asks whether, once an officer’s use of force has been determined to be reasonable under the Fourth Amendment, there was a different Fourth Amendment violation that made the otherwise reasonable use of force unreasonable. Because this rule uses one constitutional violation to manufacture an excessive use of force claim that has already been rejected under established Fourth Amendment precedent, it is an improper rule that lacks a constitutional basis. If the defendant has multiple Fourth Amendment violation claims, they should each be analyzed separately. The Court also held that, in its proximate cause analysis regarding the warrantless entry, the lower court erroneously conflated distinct Fourth Amendment claims.<\/p>\n<p> <\/p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.<\/p>\n",
     "advocates": [
         {
             "advocate": {
@@ -52,94 +52,225 @@
                 "length_of_service": 0,
                 "identifier": "e_joshua_rosenkranz"
             },
-            "advocate_description": "for the petitioner",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20785"
+            "advocate_description": "for petitioner",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22216"
         },
         {
             "advocate": {
-                "ID": 35719,
-                "name": "Michael R. Dreeben",
-                "href": "https://api.oyez.org/people/michael_r_dreeben",
+                "ID": 37291,
+                "name": "Nicole A. Saharsky",
+                "href": "https://api.oyez.org/people/nicole_saharsky",
                 "view_count": 0,
-                "last_name": "Dreeben",
+                "last_name": "Saharsky",
                 "roles": null,
                 "thumbnail": null,
                 "length_of_service": 0,
-                "identifier": "michael_r_dreeben"
+                "identifier": "nicole_saharsky"
             },
-            "advocate_description": "Deputy Solicitor General, Department of Justice, for the United States as amicus curiae, for the petitioner",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20786"
+            "advocate_description": "for United States, as amicus curiae",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22217"
         },
         {
             "advocate": {
-                "ID": 42731,
-                "name": "Thomas C. Goldstein",
-                "href": "https://api.oyez.org/people/thomas_c_goldstein",
+                "ID": 34440,
+                "name": "Leonard Feldman",
+                "href": "https://api.oyez.org/people/leonard_feldman",
                 "view_count": 0,
-                "last_name": "Goldstein",
+                "last_name": "Feldman",
                 "roles": null,
-                "thumbnail": null,
+                "thumbnail": {
+                    "id": 32799,
+                    "mime": "image/jpeg",
+                    "size": 4665,
+                    "href": "https://api.oyez.org/sites/default/files/images/people/leonard_feldman/leonard_feldman.thumb.jpg"
+                },
                 "length_of_service": 0,
-                "identifier": "thomas_c_goldstein"
+                "identifier": "leonard_feldman"
             },
-            "advocate_description": "for the respondents",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20787"
+            "advocate_description": "for respondent",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22218"
         }
     ],
     "oral_argument_audio": [
         {
-            "id": 23314,
-            "title": "Oral Argument - March 03, 2015",
+            "id": 24534,
+            "title": "Oral Argument - March 22, 2017",
             "public_note": null,
-            "unavailable": null,
+            "unavailable": false,
             "display_title": null,
-            "href": "https://api.oyez.org/case_media/oral_argument_audio/23314"
+            "href": "https://api.oyez.org/case_media/oral_argument_audio/24534"
         }
     ],
     "citation": {
-        "volume": "576",
+        "volume": "581",
         "page": null,
-        "year": "2015",
-        "href": "https://api.oyez.org/case_citation/case_citation/27104"
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27476"
     },
     "decisions": [
         {
-            "description": "Warrantless searches of hotel registries are unconstitutional.",
+            "description": "The U.S. Court of Appeals for the Ninth Circuit’s provocation rule has no basis in the Fourth Amendment, and that the lower court erroneously conflated multiple Fourth Amendment violation claims.",
             "votes": [
                 {
                     "member": {
-                        "ID": 15131,
-                        "name": "Sonia Sotomayor",
-                        "href": "https://api.oyez.org/people/sonia_sotomayor",
-                        "view_count": 211,
-                        "last_name": "Sotomayor",
+                        "ID": 15068,
+                        "name": "Samuel A. Alito, Jr.",
+                        "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                        "view_count": 176,
+                        "last_name": "Alito",
                         "roles": [
                             {
-                                "id": 2776,
+                                "id": 2712,
                                 "type": "scotus_justice",
-                                "date_start": 1249707600,
+                                "date_start": 1138687200,
                                 "date_end": 0,
-                                "appointing_president": null,
+                                "appointing_president": "George W. Bush",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
                             }
                         ],
                         "thumbnail": {
-                            "id": 32685,
+                            "id": 32684,
                             "mime": "image/png",
-                            "size": 50379,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+                            "size": 44799,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 2433,
-                        "identifier": "sonia_sotomayor"
+                        "length_of_service": 4311,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "majority",
                     "opinion_type": "majority",
                     "joining": null,
-                    "seniority": 8,
-                    "ideology": -2.535,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205296"
+                    "seniority": 6,
+                    "ideology": 1.476,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209093"
+                },
+                {
+                    "member": {
+                        "ID": 15086,
+                        "name": "John G. Roberts, Jr.",
+                        "href": "https://api.oyez.org/people/john_g_roberts_jr",
+                        "view_count": 153,
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2730,
+                                "type": "scotus_justice",
+                                "date_start": 1127970000,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32683,
+                            "mime": "image/png",
+                            "size": 52305,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+                        },
+                        "length_of_service": 3842,
+                        "identifier": "john_g_roberts_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image/png",
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 0.257,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209094"
+                },
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https://api.oyez.org/people/clarence_thomas",
+                        "view_count": 373,
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image/png",
+                            "size": 49064,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 9347,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image/png",
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 3.477,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209095"
                 },
                 {
                     "member": {
@@ -173,99 +304,36 @@
                     "opinion_type": "none",
                     "joining": [
                         {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
                             "roles": [
                                 {
-                                    "id": 2776,
+                                    "id": 2712,
                                     "type": "scotus_justice",
-                                    "date_start": 1249707600,
+                                    "date_start": 1138687200,
                                     "date_end": 0,
-                                    "appointing_president": null,
+                                    "appointing_president": "George W. Bush",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
                                 }
                             ],
                             "thumbnail": {
-                                "id": 32685,
+                                "id": 32684,
                                 "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
                             },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
                         }
                     ],
-                    "seniority": 3,
-                    "ideology": -0.27,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205297"
-                },
-                {
-                    "member": {
-                        "ID": 15084,
-                        "name": "Ruth Bader Ginsburg",
-                        "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                        "view_count": 248,
-                        "last_name": "Ginsburg",
-                        "roles": [
-                            {
-                                "id": 2728,
-                                "type": "scotus_justice",
-                                "date_start": 744958800,
-                                "date_end": 0,
-                                "appointing_president": "Bill Clinton",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2728"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32681,
-                            "mime": "image/png",
-                            "size": 45030,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png"
-                        },
-                        "length_of_service": 8275,
-                        "identifier": "ruth_bader_ginsburg"
-                    },
-                    "vote": "majority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 5,
-                    "ideology": -2.474,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205298"
+                    "seniority": 2,
+                    "ideology": -0.362,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209096"
                 },
                 {
                     "member": {
@@ -299,36 +367,162 @@
                     "opinion_type": "none",
                     "joining": [
                         {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
                             "roles": [
                                 {
-                                    "id": 2776,
+                                    "id": 2712,
                                     "type": "scotus_justice",
-                                    "date_start": 1249707600,
+                                    "date_start": 1138687200,
                                     "date_end": 0,
-                                    "appointing_president": null,
+                                    "appointing_president": "George W. Bush",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
                                 }
                             ],
                             "thumbnail": {
-                                "id": 32685,
+                                "id": 32684,
                                 "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
                             },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
                         }
                     ],
-                    "seniority": 6,
-                    "ideology": -1.492,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205299"
+                    "seniority": 5,
+                    "ideology": -1.312,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209097"
+                },
+                {
+                    "member": {
+                        "ID": 15084,
+                        "name": "Ruth Bader Ginsburg",
+                        "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
+                        "view_count": 248,
+                        "last_name": "Ginsburg",
+                        "roles": [
+                            {
+                                "id": 2728,
+                                "type": "scotus_justice",
+                                "date_start": 744958800,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2728"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32681,
+                            "mime": "image/png",
+                            "size": 45030,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png"
+                        },
+                        "length_of_service": 8275,
+                        "identifier": "ruth_bader_ginsburg"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image/png",
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": -2.618,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209098"
+                },
+                {
+                    "member": {
+                        "ID": 15131,
+                        "name": "Sonia Sotomayor",
+                        "href": "https://api.oyez.org/people/sonia_sotomayor",
+                        "view_count": 211,
+                        "last_name": "Sotomayor",
+                        "roles": [
+                            {
+                                "id": 2776,
+                                "type": "scotus_justice",
+                                "date_start": 1249707600,
+                                "date_end": 0,
+                                "appointing_president": null,
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32685,
+                            "mime": "image/png",
+                            "size": 50379,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+                        },
+                        "length_of_service": 2433,
+                        "identifier": "sonia_sotomayor"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+                            "view_count": 176,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image/png",
+                                "size": 44799,
+                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 4311,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": -2.645,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209099"
                 },
                 {
                     "member": {
@@ -362,194 +556,6 @@
                     "opinion_type": "none",
                     "joining": [
                         {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 9,
-                    "ideology": -1.641,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205300"
-                },
-                {
-                    "member": {
-                        "ID": 15049,
-                        "name": "Antonin Scalia",
-                        "href": "https://api.oyez.org/people/antonin_scalia",
-                        "view_count": 117,
-                        "last_name": "Scalia",
-                        "roles": [
-                            {
-                                "id": 2693,
-                                "type": "scotus_justice",
-                                "date_start": 528094800,
-                                "date_end": 1455343200,
-                                "appointing_president": "Ronald Reagan",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32678,
-                            "mime": "image/png",
-                            "size": 58944,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                        },
-                        "length_of_service": 10732,
-                        "identifier": "antonin_scalia"
-                    },
-                    "vote": "minority",
-                    "opinion_type": "dissent",
-                    "joining": null,
-                    "seniority": 2,
-                    "ideology": 1.487,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205301"
-                },
-                {
-                    "member": {
-                        "ID": 15086,
-                        "name": "John G. Roberts, Jr.",
-                        "href": "https://api.oyez.org/people/john_g_roberts_jr",
-                        "view_count": 153,
-                        "last_name": "Roberts",
-                        "roles": [
-                            {
-                                "id": 2730,
-                                "type": "scotus_justice",
-                                "date_start": 1127970000,
-                                "date_end": 0,
-                                "appointing_president": "George W. Bush",
-                                "role_title": "Chief Justice of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32683,
-                            "mime": "image/png",
-                            "size": 52305,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
-                        },
-                        "length_of_service": 3842,
-                        "identifier": "john_g_roberts_jr"
-                    },
-                    "vote": "minority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15049,
-                            "name": "Antonin Scalia",
-                            "href": "https://api.oyez.org/people/antonin_scalia",
-                            "view_count": 117,
-                            "last_name": "Scalia",
-                            "roles": [
-                                {
-                                    "id": 2693,
-                                    "type": "scotus_justice",
-                                    "date_start": 528094800,
-                                    "date_end": 1455343200,
-                                    "appointing_president": "Ronald Reagan",
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32678,
-                                "mime": "image/png",
-                                "size": 58944,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                            },
-                            "length_of_service": 10732,
-                            "identifier": "antonin_scalia"
-                        }
-                    ],
-                    "seniority": 1,
-                    "ideology": 0.561,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205302"
-                },
-                {
-                    "member": {
-                        "ID": 15100,
-                        "name": "Clarence Thomas",
-                        "href": "https://api.oyez.org/people/clarence_thomas",
-                        "view_count": 373,
-                        "last_name": "Thomas",
-                        "roles": [
-                            {
-                                "id": 2744,
-                                "type": "scotus_justice",
-                                "date_start": 688194000,
-                                "date_end": 0,
-                                "appointing_president": "George H. W. Bush",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32680,
-                            "mime": "image/png",
-                            "size": 49064,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
-                        },
-                        "length_of_service": 9347,
-                        "identifier": "clarence_thomas"
-                    },
-                    "vote": "minority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15049,
-                            "name": "Antonin Scalia",
-                            "href": "https://api.oyez.org/people/antonin_scalia",
-                            "view_count": 117,
-                            "last_name": "Scalia",
-                            "roles": [
-                                {
-                                    "id": 2693,
-                                    "type": "scotus_justice",
-                                    "date_start": 528094800,
-                                    "date_end": 1455343200,
-                                    "appointing_president": "Ronald Reagan",
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32678,
-                                "mime": "image/png",
-                                "size": 58944,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                            },
-                            "length_of_service": 10732,
-                            "identifier": "antonin_scalia"
-                        },
-                        {
                             "ID": 15068,
                             "name": "Samuel A. Alito, Jr.",
                             "href": "https://api.oyez.org/people/samuel_a_alito_jr",
@@ -577,60 +583,60 @@
                             "identifier": "samuel_a_alito_jr"
                         }
                     ],
-                    "seniority": 4,
-                    "ideology": 3.344,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205303"
+                    "seniority": 8,
+                    "ideology": -1.532,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209100"
                 },
                 {
                     "member": {
-                        "ID": 15068,
-                        "name": "Samuel A. Alito, Jr.",
-                        "href": "https://api.oyez.org/people/samuel_a_alito_jr",
-                        "view_count": 176,
-                        "last_name": "Alito",
+                        "ID": 62836,
+                        "name": "Neil Gorsuch",
+                        "href": "https://api.oyez.org/people/neil_gorsuch",
+                        "view_count": 138,
+                        "last_name": "Gorsuch",
                         "roles": [
                             {
-                                "id": 2712,
+                                "id": 3506,
                                 "type": "scotus_justice",
-                                "date_start": 1138687200,
+                                "date_start": 1491541200,
                                 "date_end": 0,
-                                "appointing_president": "George W. Bush",
+                                "appointing_president": "Donald J. Trump",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
                             }
                         ],
                         "thumbnail": {
-                            "id": 32684,
+                            "id": 79753,
                             "mime": "image/png",
-                            "size": 44799,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+                            "size": 121461,
+                            "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
                         },
-                        "length_of_service": 4311,
-                        "identifier": "samuel_a_alito_jr"
+                        "length_of_service": 104,
+                        "identifier": "neil_gorsuch"
                     },
-                    "vote": "minority",
-                    "opinion_type": "dissent",
+                    "vote": "none",
+                    "opinion_type": "none",
                     "joining": null,
-                    "seniority": 7,
-                    "ideology": 1.603,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205304"
+                    "seniority": 9,
+                    "ideology": 1.503,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/209101"
                 }
             ],
-            "majority_vote": 5,
-            "minority_vote": 4,
-            "winning_party": "Patel",
+            "majority_vote": 8,
+            "minority_vote": 0,
+            "winning_party": "County of Los Angeles",
             "decision_type": "majority opinion",
-            "href": "https://api.oyez.org/case_decision/case_decision/16360"
+            "href": "https://api.oyez.org/case_decision/case_decision/16805"
         }
     ],
     "first_party_label": "Petitioner",
     "second_party_label": "Respondent",
     "heard_by": [
         {
-            "ID": 15151,
-            "name": "Roberts Court (2010-2016)",
-            "href": "https://api.oyez.org/courts/roberts6",
+            "ID": 62665,
+            "name": "Roberts Court (2016-2017)",
+            "href": "https://api.oyez.org/courts/roberts7",
             "view_count": 0,
             "members": [
                 {
@@ -659,33 +665,6 @@
                     },
                     "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
-                },
-                {
-                    "ID": 15049,
-                    "name": "Antonin Scalia",
-                    "href": "https://api.oyez.org/people/antonin_scalia",
-                    "view_count": 117,
-                    "last_name": "Scalia",
-                    "roles": [
-                        {
-                            "id": 2693,
-                            "type": "scotus_justice",
-                            "date_start": 528094800,
-                            "date_end": 1455343200,
-                            "appointing_president": "Ronald Reagan",
-                            "role_title": "Associate Justice of the Supreme Court of the United States",
-                            "institution_name": "Supreme Court of the United States",
-                            "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                        }
-                    ],
-                    "thumbnail": {
-                        "id": 32678,
-                        "mime": "image/png",
-                        "size": 58944,
-                        "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                    },
-                    "length_of_service": 10732,
-                    "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
@@ -877,22 +856,22 @@
                     "identifier": "elena_kagan"
                 }
             ],
-            "court_start": 1281157200,
+            "court_start": 1455343200,
             "images": [
                 {
-                    "id": 12235,
+                    "id": 79051,
                     "mime": "image/jpeg",
-                    "size": 359998,
-                    "href": "https://api.oyez.org/sites/default/files/images/courts/roberts6.jpg"
+                    "size": 2177911,
+                    "href": "https://api.oyez.org/sites/default/files/images/courts/roberts7.jpg"
                 }
             ],
-            "identifier": "roberts6"
+            "identifier": "roberts7"
         }
     ],
     "decided_by": {
-        "ID": 15151,
-        "name": "Roberts Court (2010-2016)",
-        "href": "https://api.oyez.org/courts/roberts6",
+        "ID": 62838,
+        "name": "Roberts Court (2017-2018)",
+        "href": "https://api.oyez.org/courts/roberts8",
         "view_count": 0,
         "members": [
             {
@@ -921,33 +900,6 @@
                 },
                 "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
-            },
-            {
-                "ID": 15049,
-                "name": "Antonin Scalia",
-                "href": "https://api.oyez.org/people/antonin_scalia",
-                "view_count": 117,
-                "last_name": "Scalia",
-                "roles": [
-                    {
-                        "id": 2693,
-                        "type": "scotus_justice",
-                        "date_start": 528094800,
-                        "date_end": 1455343200,
-                        "appointing_president": "Ronald Reagan",
-                        "role_title": "Associate Justice of the Supreme Court of the United States",
-                        "institution_name": "Supreme Court of the United States",
-                        "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                    }
-                ],
-                "thumbnail": {
-                    "id": 32678,
-                    "mime": "image/png",
-                    "size": 58944,
-                    "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                },
-                "length_of_service": 10732,
-                "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
@@ -1137,101 +1089,98 @@
                 },
                 "length_of_service": 2762,
                 "identifier": "elena_kagan"
+            },
+            {
+                "ID": 62836,
+                "name": "Neil Gorsuch",
+                "href": "https://api.oyez.org/people/neil_gorsuch",
+                "view_count": 138,
+                "last_name": "Gorsuch",
+                "roles": [
+                    {
+                        "id": 3506,
+                        "type": "scotus_justice",
+                        "date_start": 1491541200,
+                        "date_end": 0,
+                        "appointing_president": "Donald J. Trump",
+                        "role_title": "Associate Justice of the Supreme Court of the United States",
+                        "institution_name": "Supreme Court of the United States",
+                        "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+                    }
+                ],
+                "thumbnail": {
+                    "id": 79753,
+                    "mime": "image/png",
+                    "size": 121461,
+                    "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+                },
+                "length_of_service": 104,
+                "identifier": "neil_gorsuch"
             }
         ],
-        "court_start": 1281157200,
+        "court_start": 1491800400,
         "images": [
             {
-                "id": 12235,
+                "id": 79757,
                 "mime": "image/jpeg",
-                "size": 359998,
-                "href": "https://api.oyez.org/sites/default/files/images/courts/roberts6.jpg"
+                "size": 333783,
+                "href": "https://api.oyez.org/sites/default/files/filefield_paths/GroupPhoto.jpg"
             }
         ],
-        "identifier": "roberts6"
+        "identifier": "roberts8"
     },
-    "term": "2014",
+    "term": "2016",
     "location": {
-        "latitude": 34.055338,
-        "longitude": -118.242351,
-        "name": "United States District Court, Central District of California",
-        "street": "312 North Spring Street",
-        "city": "Los Angeles",
+        "latitude": 34.667705,
+        "longitude": -118.163449,
+        "name": "Near the intersection of W. Ave K 8 and 18th St. W in Lancaster, CA",
+        "street": "43201 18th Street West",
+        "city": "Lancaster",
         "province": "CA",
-        "postal_code": "90012",
+        "postal_code": null,
         "province_name": "California"
     },
     "opinion_announcement": [
         {
-            "id": 23954,
-            "title": "Opinion Announcement - June 22, 2015",
-            "unavailable": null,
-            "href": "https://api.oyez.org/case_media/opinion_announcement_audio/23954"
+            "id": 24375,
+            "title": "Opinion Announcement - May 30, 2017",
+            "unavailable": false,
+            "href": "https://api.oyez.org/case_media/opinion_announcement_audio/24375"
         }
     ],
-    "description": "A case in which the Court determined that a municipal ordinance that allows the police to inspect hotel records without a warrant violates the Fourth Amendment’s prohibition against unreasonable searches unless the business owner is given the opportunity for pre-compliance review.",
+    "description": "A case in which the Court determined that the U.S. Court of Appeals for the Ninth Circuit’s provocation rule has no basis in the Fourth Amendment, and that the lower court erroneously conflated multiple Fourth Amendment violation claims.",
     "written_opinion": [
         {
-            "id": 525,
-            "title": "Dissenting opinion",
-            "author": null,
-            "type": {
-                "value": "dissenting",
-                "label": "Dissenting opinion"
-            },
-            "justia_opinion_id": 3424288,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/dissent4.html",
-            "judge_full_name": "Antonin Scalia",
-            "judge_last_name": "Scalia",
-            "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/525"
-        },
-        {
-            "id": 526,
-            "title": "Dissenting opinion",
-            "author": null,
-            "type": {
-                "value": "dissenting",
-                "label": "Dissenting opinion"
-            },
-            "justia_opinion_id": 3424286,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/dissent5.html",
-            "judge_full_name": "Samuel A. Alito, Jr.",
-            "judge_last_name": "Alito",
-            "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/526"
-        },
-        {
-            "id": 527,
+            "id": 16271,
             "title": "Opinion of the Court",
             "author": null,
             "type": {
                 "value": "majority",
                 "label": "Opinion of the Court"
             },
-            "justia_opinion_id": 3424285,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/opinion3.html",
-            "judge_full_name": "Sonia Sotomayor",
-            "judge_last_name": "Sotomayor",
+            "justia_opinion_id": 3739532,
+            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/581/16-369/",
+            "judge_full_name": "Samuel A. Alito, Jr.",
+            "judge_last_name": "Alito",
             "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/527"
+            "href": "https://api.oyez.org/case_document/written_opinion/16271"
         },
         {
-            "id": 528,
+            "id": 16272,
             "title": "Syllabus",
             "author": null,
             "type": {
                 "value": "syllabus",
                 "label": "Syllabus"
             },
-            "justia_opinion_id": 3424287,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/",
+            "justia_opinion_id": 3739533,
+            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/581/16-369/",
             "judge_full_name": null,
             "judge_last_name": null,
             "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/528"
+            "href": "https://api.oyez.org/case_document/written_opinion/16272"
         }
     ],
     "related_cases": null,
-    "justia_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/"
+    "justia_url": "https://supreme.justia.com/cases/federal/us/581/16-369/"
 }

@@ -1,34 +1,34 @@
 {
-    "ID": 56058,
-    "name": "City of Los Angeles v. Patel",
-    "href": "https://api.oyez.org/cases/2014/13-1175",
-    "view_count": 300,
-    "docket_number": "13-1175",
+    "ID": 62731,
+    "name": "Lightfoot v. Cendant Mortgage Corporation",
+    "href": "https://api.oyez.org/cases/2016/14-1055",
+    "view_count": 0,
+    "docket_number": "14-1055",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
-    "first_party": "City of Los Angeles",
-    "second_party": "Naranjibhai Patel, et al.",
+    "first_party": "Crystal Monique Lightfoot, et al. ",
+    "second_party": "Cendant Mortgage Corporation, et al.",
     "timeline": [
         {
             "event": "Granted",
             "dates": [
-                1413781200
+                1467090000
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/41631"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53853"
         },
         {
             "event": "Argued",
             "dates": [
-                1425362400
+                1478584800
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/41632"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53912"
         },
         {
             "event": "Decided",
             "dates": [
-                1434949200
+                1484719200
             ],
-            "href": "https://api.oyez.org/case_timeline/case_timeline/52766"
+            "href": "https://api.oyez.org/case_timeline/case_timeline/53964"
         }
     ],
     "lower_court": {
@@ -36,9 +36,9 @@
         "name": "United States Court of Appeals for the Ninth Circuit",
         "href": "https://api.oyez.org/taxonomy/term/5"
     },
-    "facts_of_the_case": "<p>Naranjibhai and Ramilaben Patel are owners and operators of motels in Los Angeles. The Los Angeles Municipal Code (LAMC) requires motel operators to keep records with specified information about their guests. The LAMC also authorizes police officers to inspect hotel records at any time without a search warrant. The Patels filed suit and argued that the provision violated their Fourth Amendment protections against unreasonable searches. The city of Los Angeles argued that motels are \"closely regulated\" businesses and are therefore subject to warrantless inspections.<\/p>\n<p>The district court determined that motels were not subjected to the same kind of pervasive and regular regulations as other recognized \"closely regulated\" businesses. Nonetheless, the court held that motels do not have an ownership interest that gives rise to a privacy right in their records because the records were created to comply with the ordinance. The U.S. Court of Appeals for the Ninth Circuit initially affirmed, but later reversed in rehearing en banc. The appellate court held that the hotel records were private \"papers\" protected by the Fourth Amendment and that the LAMC's warrantless search provision was unreasonable because it does not provide for pre-compliance judicial review of an officer's demand to inspect a motel's records.<\/p>\n",
-    "question": "<p>Is a municipal ordinance that allows police to inspect hotel records without a warrant inconsistent with the Fourth Amendment's privacy expectations?<\/p>\n",
-    "conclusion": "<p>Yes. Justice Sonia Sotomayor delivered the opinion of the 5-4 majority. The Court held that an individual may challenge a statute for violating the Constitution on its face without needing to allege unconstitutional enforcement, and that the municipal ordinance in question is unconstitutional on its face because it does not allow for hotel operators to engage in pre-compliance review by questioning the reasonableness of the subpoena in district court. The type of search the municipal ordinance authorizes is an administrative one, which means that its purpose is to ensure that the hotel operators are complying with the record requirement, and judicial precedent has held that there must be an opportunity for the subpoenaed party to contest the subpoena for an administrative search before penalties are imposed. Such pre-compliance review is necessary to ensure that the search is not a pretext to harass the business owner. The Court also held that hotels are not a “closely regulated” business and therefore do not fall under that exception to the warrant requirement.<\/p>\n<p>Justice Antonin Scalia wrote a dissent in which he argued that the municipal ordinance in question is constitutional under the Fourth Amendment in most, if not all, of its applications because warrantless searches are not unreasonable under certain conditions. One of those conditions is when the premises to be searched is that of a closely regulated business, as long as the regulatory scheme of which the search is a part furthers a substantial government interest, the search is necessary to further the regulatory scheme, and the regulatory scheme provides a constitutionally adequate substitute for a warrant. Because hotels have a long tradition of being closely regulated and the municipal ordinance in question satisfies the conditions of a regulatory scheme for closely regulated businesses, the unwarranted search of hotel records is not unreasonable. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the dissent. In his separate dissent, Justice Samuel A. Alito, Jr. wrote that, in order to hold a statute unconstitutional on its face, the Court must find that the statute is unconstitutional in every application. Because there are many circumstances in which the municipal ordinance in question could be applied constitutionally, relief should only be granted in cases when applying the ordinance would conflict with the Constitution. Justice Thomas joined in the dissent.<\/p>\n",
+    "facts_of_the_case": "<p>Crystal Monique Lightfoot and Beverly Ann Hollis-Arlington sued the Federal National Mortgage Association (Fannie Mae) in federal district court and alleged numerous state and federal law claims arising out of the foreclosure proceedings Fannie Mae initiated against Hollis-Arlington’s home. The district court dismissed and held that the plaintiffs had failed to show the existence of a genuine issue of material fact regarding their claims. The U.S. Court of Appeals for the Ninth Circuit affirmed the dismissal.<\/p>\n<p>The plaintiffs then sued in California state court and alleged the state law equivalents of the claims in the earlier federal suit. Fannie Mae removed the case to federal court and argued that its federal corporate charter contained language that granted federal courts subject matter jurisdiction over cases in which it was involved as a plaintiff or defendant. The plaintiffs in this case moved for a remand back to state court, but the district court denied the remand and then dismissed all the claims as having already been litigated in the earlier case in federal court. The appellate court determined that the language in Fannie Mae’s federal charter conferred subject matter jurisdiction to federal courts and affirmed the dismissal.<\/p>\n",
+    "question": "<ol><li>Does language “to sue or and be sued, and to complain and to defend, in any court of competent jurisdiction, State or Federal\" in the federal charter of the Federal National Mortgage Association (Fannie Mae) confer subject matter jurisdiction to federal court in every case in which Fannie Mae is a plaintiff or defendant?<\/li>\n<li>Should the court’s decision in <em>American National Red Cross v. S.G. <\/em>-- which held that, when language in a federal charter expressly authorizes an organization to sue and be sued in federal courts, that language grants federal courts subject matter jurisdiction -- be overruled?<\/li>\n<\/ol>",
+    "conclusion": "<p>The “to sue or and be sued” language in the federal charter of the Federal National Mortgage Association (Fannie Mae) does not grant federal district courts subject matter jurisdiction over case involving Fannie Mae, and American National Red Cross v. S.G. need not be overturned. Justice Sonia Sotomayor delivered the opinion for the unanimous Court, which examined previous cases in which the Court had decided whether a “sue and be sued” clause conferred federal jurisdiction. Although the language in Fannie Mae’s charter looks like language in charters that the Court held conferred federal jurisdiction, it also included the qualification “of competent jurisdiction,” which the other clauses lacked. Because this language was not identical to those in the charters that the Court had held established federal subject matter jurisdiction, the previous cases do not control the outcome of this case. Instead, the additional “competent jurisdiction” language means that only a court with existing subject matter jurisdiction can hear a case in which Fannie Mae is suing or being sued. The Court’s prior opinion in American National Red Cross v. S.G. does not require a different result because it confirmed the rule that a “sue and be sued” clause only confers federal jurisdiction if it specifically references federal courts. There was no reason to think that Congress intended a different result. <\/p>\n",
     "advocates": [
         {
             "advocate": {
@@ -52,59 +52,59 @@
                 "length_of_service": 0,
                 "identifier": "e_joshua_rosenkranz"
             },
-            "advocate_description": "for the petitioner",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20785"
+            "advocate_description": "for petitioners",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22133"
         },
         {
             "advocate": {
-                "ID": 35719,
-                "name": "Michael R. Dreeben",
-                "href": "https://api.oyez.org/people/michael_r_dreeben",
+                "ID": 16657,
+                "name": "Ann O'Connell",
+                "href": "https://api.oyez.org/people/ann_oconnell",
                 "view_count": 0,
-                "last_name": "Dreeben",
+                "last_name": "O'Connell",
                 "roles": null,
                 "thumbnail": null,
                 "length_of_service": 0,
-                "identifier": "michael_r_dreeben"
+                "identifier": "ann_oconnell"
             },
-            "advocate_description": "Deputy Solicitor General, Department of Justice, for the United States as amicus curiae, for the petitioner",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20786"
+            "advocate_description": "for United States, as amicus curiae",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22134"
         },
         {
             "advocate": {
-                "ID": 42731,
-                "name": "Thomas C. Goldstein",
-                "href": "https://api.oyez.org/people/thomas_c_goldstein",
+                "ID": 62763,
+                "name": "Brian P. Brooks",
+                "href": "https://api.oyez.org/people/brian_p_brooks",
                 "view_count": 0,
-                "last_name": "Goldstein",
+                "last_name": "Brooks",
                 "roles": null,
                 "thumbnail": null,
                 "length_of_service": 0,
-                "identifier": "thomas_c_goldstein"
+                "identifier": "brian_p_brooks"
             },
-            "advocate_description": "for the respondents",
-            "href": "https://api.oyez.org/case_advocate/case_advocate/20787"
+            "advocate_description": "for respondents",
+            "href": "https://api.oyez.org/case_advocate/case_advocate/22135"
         }
     ],
     "oral_argument_audio": [
         {
-            "id": 23314,
-            "title": "Oral Argument - March 03, 2015",
+            "id": 24227,
+            "title": "Oral Argument - November 08, 2016",
             "public_note": null,
-            "unavailable": null,
+            "unavailable": false,
             "display_title": null,
-            "href": "https://api.oyez.org/case_media/oral_argument_audio/23314"
+            "href": "https://api.oyez.org/case_media/oral_argument_audio/24227"
         }
     ],
     "citation": {
-        "volume": "576",
+        "volume": "580",
         "page": null,
-        "year": "2015",
-        "href": "https://api.oyez.org/case_citation/case_citation/27104"
+        "year": "2017",
+        "href": "https://api.oyez.org/case_citation/case_citation/27442"
     },
     "decisions": [
         {
-            "description": "Warrantless searches of hotel registries are unconstitutional.",
+            "description": "The language in the federal charter of the Federal National Mortgage Association (Fannie Mae) that authorizes the organization to sue and be sued does not mean that federal courts have subject matter jurisdiction over any case in which Fannie Mae is a plaintiff or defendant.",
             "votes": [
                 {
                     "member": {
@@ -137,72 +137,9 @@
                     "vote": "majority",
                     "opinion_type": "majority",
                     "joining": null,
-                    "seniority": 8,
-                    "ideology": -2.535,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205296"
-                },
-                {
-                    "member": {
-                        "ID": 15113,
-                        "name": "Anthony M. Kennedy",
-                        "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                        "view_count": 101,
-                        "last_name": "Kennedy",
-                        "roles": [
-                            {
-                                "id": 2757,
-                                "type": "scotus_justice",
-                                "date_start": 572162400,
-                                "date_end": 1533013200,
-                                "appointing_president": "Ronald Reagan",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2757"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32679,
-                            "mime": "image/png",
-                            "size": 47100,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png"
-                        },
-                        "length_of_service": 11121,
-                        "identifier": "anthony_m_kennedy"
-                    },
-                    "vote": "majority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 3,
-                    "ideology": -0.27,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205297"
+                    "seniority": 7,
+                    "ideology": -2.645,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208832"
                 },
                 {
                     "member": {
@@ -234,101 +171,10 @@
                     },
                     "vote": "majority",
                     "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 5,
-                    "ideology": -2.474,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205298"
-                },
-                {
-                    "member": {
-                        "ID": 15139,
-                        "name": "Stephen G. Breyer",
-                        "href": "https://api.oyez.org/people/stephen_g_breyer",
-                        "view_count": 178,
-                        "last_name": "Breyer",
-                        "roles": [
-                            {
-                                "id": 2785,
-                                "type": "scotus_justice",
-                                "date_start": 775890000,
-                                "date_end": 0,
-                                "appointing_president": "Bill Clinton",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2785"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32682,
-                            "mime": "image/png",
-                            "size": 49908,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
-                        },
-                        "length_of_service": 7917,
-                        "identifier": "stephen_g_breyer"
-                    },
-                    "vote": "majority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 6,
-                    "ideology": -1.492,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205299"
+                    "joining": null,
+                    "seniority": 4,
+                    "ideology": -2.618,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208833"
                 },
                 {
                     "member": {
@@ -360,73 +206,10 @@
                     },
                     "vote": "majority",
                     "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15131,
-                            "name": "Sonia Sotomayor",
-                            "href": "https://api.oyez.org/people/sonia_sotomayor",
-                            "view_count": 211,
-                            "last_name": "Sotomayor",
-                            "roles": [
-                                {
-                                    "id": 2776,
-                                    "type": "scotus_justice",
-                                    "date_start": 1249707600,
-                                    "date_end": 0,
-                                    "appointing_president": null,
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32685,
-                                "mime": "image/png",
-                                "size": 50379,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
-                            },
-                            "length_of_service": 2433,
-                            "identifier": "sonia_sotomayor"
-                        }
-                    ],
-                    "seniority": 9,
-                    "ideology": -1.641,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205300"
-                },
-                {
-                    "member": {
-                        "ID": 15049,
-                        "name": "Antonin Scalia",
-                        "href": "https://api.oyez.org/people/antonin_scalia",
-                        "view_count": 117,
-                        "last_name": "Scalia",
-                        "roles": [
-                            {
-                                "id": 2693,
-                                "type": "scotus_justice",
-                                "date_start": 528094800,
-                                "date_end": 1455343200,
-                                "appointing_president": "Ronald Reagan",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32678,
-                            "mime": "image/png",
-                            "size": 58944,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                        },
-                        "length_of_service": 10732,
-                        "identifier": "antonin_scalia"
-                    },
-                    "vote": "minority",
-                    "opinion_type": "dissent",
                     "joining": null,
-                    "seniority": 2,
-                    "ideology": 1.487,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205301"
+                    "seniority": 8,
+                    "ideology": -1.532,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208834"
                 },
                 {
                     "member": {
@@ -456,130 +239,12 @@
                         "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
-                    "vote": "minority",
+                    "vote": "majority",
                     "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15049,
-                            "name": "Antonin Scalia",
-                            "href": "https://api.oyez.org/people/antonin_scalia",
-                            "view_count": 117,
-                            "last_name": "Scalia",
-                            "roles": [
-                                {
-                                    "id": 2693,
-                                    "type": "scotus_justice",
-                                    "date_start": 528094800,
-                                    "date_end": 1455343200,
-                                    "appointing_president": "Ronald Reagan",
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32678,
-                                "mime": "image/png",
-                                "size": 58944,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                            },
-                            "length_of_service": 10732,
-                            "identifier": "antonin_scalia"
-                        }
-                    ],
+                    "joining": null,
                     "seniority": 1,
-                    "ideology": 0.561,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205302"
-                },
-                {
-                    "member": {
-                        "ID": 15100,
-                        "name": "Clarence Thomas",
-                        "href": "https://api.oyez.org/people/clarence_thomas",
-                        "view_count": 373,
-                        "last_name": "Thomas",
-                        "roles": [
-                            {
-                                "id": 2744,
-                                "type": "scotus_justice",
-                                "date_start": 688194000,
-                                "date_end": 0,
-                                "appointing_president": "George H. W. Bush",
-                                "role_title": "Associate Justice of the Supreme Court of the United States",
-                                "institution_name": "Supreme Court of the United States",
-                                "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
-                            }
-                        ],
-                        "thumbnail": {
-                            "id": 32680,
-                            "mime": "image/png",
-                            "size": 49064,
-                            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
-                        },
-                        "length_of_service": 9347,
-                        "identifier": "clarence_thomas"
-                    },
-                    "vote": "minority",
-                    "opinion_type": "none",
-                    "joining": [
-                        {
-                            "ID": 15049,
-                            "name": "Antonin Scalia",
-                            "href": "https://api.oyez.org/people/antonin_scalia",
-                            "view_count": 117,
-                            "last_name": "Scalia",
-                            "roles": [
-                                {
-                                    "id": 2693,
-                                    "type": "scotus_justice",
-                                    "date_start": 528094800,
-                                    "date_end": 1455343200,
-                                    "appointing_president": "Ronald Reagan",
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32678,
-                                "mime": "image/png",
-                                "size": 58944,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                            },
-                            "length_of_service": 10732,
-                            "identifier": "antonin_scalia"
-                        },
-                        {
-                            "ID": 15068,
-                            "name": "Samuel A. Alito, Jr.",
-                            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
-                            "view_count": 176,
-                            "last_name": "Alito",
-                            "roles": [
-                                {
-                                    "id": 2712,
-                                    "type": "scotus_justice",
-                                    "date_start": 1138687200,
-                                    "date_end": 0,
-                                    "appointing_president": "George W. Bush",
-                                    "role_title": "Associate Justice of the Supreme Court of the United States",
-                                    "institution_name": "Supreme Court of the United States",
-                                    "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
-                                }
-                            ],
-                            "thumbnail": {
-                                "id": 32684,
-                                "mime": "image/png",
-                                "size": 44799,
-                                "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
-                            },
-                            "length_of_service": 4311,
-                            "identifier": "samuel_a_alito_jr"
-                        }
-                    ],
-                    "seniority": 4,
-                    "ideology": 3.344,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205303"
+                    "ideology": 0.257,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208835"
                 },
                 {
                     "member": {
@@ -609,28 +274,133 @@
                         "length_of_service": 4311,
                         "identifier": "samuel_a_alito_jr"
                     },
-                    "vote": "minority",
-                    "opinion_type": "dissent",
+                    "vote": "majority",
+                    "opinion_type": "none",
                     "joining": null,
-                    "seniority": 7,
-                    "ideology": 1.603,
-                    "href": "https://api.oyez.org/decision_vote/decision_vote/205304"
+                    "seniority": 6,
+                    "ideology": 1.476,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208836"
+                },
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https://api.oyez.org/people/clarence_thomas",
+                        "view_count": 373,
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image/png",
+                            "size": 49064,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 9347,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 3,
+                    "ideology": 3.477,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208837"
+                },
+                {
+                    "member": {
+                        "ID": 15113,
+                        "name": "Anthony M. Kennedy",
+                        "href": "https://api.oyez.org/people/anthony_m_kennedy",
+                        "view_count": 101,
+                        "last_name": "Kennedy",
+                        "roles": [
+                            {
+                                "id": 2757,
+                                "type": "scotus_justice",
+                                "date_start": 572162400,
+                                "date_end": 1533013200,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2757"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32679,
+                            "mime": "image/png",
+                            "size": 47100,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png"
+                        },
+                        "length_of_service": 11121,
+                        "identifier": "anthony_m_kennedy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": -0.362,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208838"
+                },
+                {
+                    "member": {
+                        "ID": 15139,
+                        "name": "Stephen G. Breyer",
+                        "href": "https://api.oyez.org/people/stephen_g_breyer",
+                        "view_count": 178,
+                        "last_name": "Breyer",
+                        "roles": [
+                            {
+                                "id": 2785,
+                                "type": "scotus_justice",
+                                "date_start": 775890000,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https://api.oyez.org/preson_role/scotus_justice/2785"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32682,
+                            "mime": "image/png",
+                            "size": 49908,
+                            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
+                        },
+                        "length_of_service": 7917,
+                        "identifier": "stephen_g_breyer"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 5,
+                    "ideology": -1.312,
+                    "href": "https://api.oyez.org/decision_vote/decision_vote/208839"
                 }
             ],
-            "majority_vote": 5,
-            "minority_vote": 4,
-            "winning_party": "Patel",
+            "majority_vote": 8,
+            "minority_vote": 0,
+            "winning_party": "Crystal Monique Lightfoot",
             "decision_type": "majority opinion",
-            "href": "https://api.oyez.org/case_decision/case_decision/16360"
+            "href": "https://api.oyez.org/case_decision/case_decision/16774"
         }
     ],
     "first_party_label": "Petitioner",
     "second_party_label": "Respondent",
     "heard_by": [
         {
-            "ID": 15151,
-            "name": "Roberts Court (2010-2016)",
-            "href": "https://api.oyez.org/courts/roberts6",
+            "ID": 62665,
+            "name": "Roberts Court (2016-2017)",
+            "href": "https://api.oyez.org/courts/roberts7",
             "view_count": 0,
             "members": [
                 {
@@ -659,33 +429,6 @@
                     },
                     "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
-                },
-                {
-                    "ID": 15049,
-                    "name": "Antonin Scalia",
-                    "href": "https://api.oyez.org/people/antonin_scalia",
-                    "view_count": 117,
-                    "last_name": "Scalia",
-                    "roles": [
-                        {
-                            "id": 2693,
-                            "type": "scotus_justice",
-                            "date_start": 528094800,
-                            "date_end": 1455343200,
-                            "appointing_president": "Ronald Reagan",
-                            "role_title": "Associate Justice of the Supreme Court of the United States",
-                            "institution_name": "Supreme Court of the United States",
-                            "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                        }
-                    ],
-                    "thumbnail": {
-                        "id": 32678,
-                        "mime": "image/png",
-                        "size": 58944,
-                        "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                    },
-                    "length_of_service": 10732,
-                    "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
@@ -877,22 +620,22 @@
                     "identifier": "elena_kagan"
                 }
             ],
-            "court_start": 1281157200,
+            "court_start": 1455343200,
             "images": [
                 {
-                    "id": 12235,
+                    "id": 79051,
                     "mime": "image/jpeg",
-                    "size": 359998,
-                    "href": "https://api.oyez.org/sites/default/files/images/courts/roberts6.jpg"
+                    "size": 2177911,
+                    "href": "https://api.oyez.org/sites/default/files/images/courts/roberts7.jpg"
                 }
             ],
-            "identifier": "roberts6"
+            "identifier": "roberts7"
         }
     ],
     "decided_by": {
-        "ID": 15151,
-        "name": "Roberts Court (2010-2016)",
-        "href": "https://api.oyez.org/courts/roberts6",
+        "ID": 62665,
+        "name": "Roberts Court (2016-2017)",
+        "href": "https://api.oyez.org/courts/roberts7",
         "view_count": 0,
         "members": [
             {
@@ -921,33 +664,6 @@
                 },
                 "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
-            },
-            {
-                "ID": 15049,
-                "name": "Antonin Scalia",
-                "href": "https://api.oyez.org/people/antonin_scalia",
-                "view_count": 117,
-                "last_name": "Scalia",
-                "roles": [
-                    {
-                        "id": 2693,
-                        "type": "scotus_justice",
-                        "date_start": 528094800,
-                        "date_end": 1455343200,
-                        "appointing_president": "Ronald Reagan",
-                        "role_title": "Associate Justice of the Supreme Court of the United States",
-                        "institution_name": "Supreme Court of the United States",
-                        "href": "https://api.oyez.org/preson_role/scotus_justice/2693"
-                    }
-                ],
-                "thumbnail": {
-                    "id": 32678,
-                    "mime": "image/png",
-                    "size": 58944,
-                    "href": "https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png"
-                },
-                "length_of_service": 10732,
-                "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
@@ -1139,99 +855,69 @@
                 "identifier": "elena_kagan"
             }
         ],
-        "court_start": 1281157200,
+        "court_start": 1455343200,
         "images": [
             {
-                "id": 12235,
+                "id": 79051,
                 "mime": "image/jpeg",
-                "size": 359998,
-                "href": "https://api.oyez.org/sites/default/files/images/courts/roberts6.jpg"
+                "size": 2177911,
+                "href": "https://api.oyez.org/sites/default/files/images/courts/roberts7.jpg"
             }
         ],
-        "identifier": "roberts6"
+        "identifier": "roberts7"
     },
-    "term": "2014",
+    "term": "2016",
     "location": {
-        "latitude": 34.055338,
-        "longitude": -118.242351,
-        "name": "United States District Court, Central District of California",
+        "latitude": 34.055205,
+        "longitude": -118.241422,
+        "name": "U.S. District Court for the Central District of California, Western Division",
         "street": "312 North Spring Street",
         "city": "Los Angeles",
         "province": "CA",
-        "postal_code": "90012",
+        "postal_code": null,
         "province_name": "California"
     },
     "opinion_announcement": [
         {
-            "id": 23954,
-            "title": "Opinion Announcement - June 22, 2015",
-            "unavailable": null,
-            "href": "https://api.oyez.org/case_media/opinion_announcement_audio/23954"
+            "id": 24346,
+            "title": "Opinion Announcement - January 18, 2017",
+            "unavailable": false,
+            "href": "https://api.oyez.org/case_media/opinion_announcement_audio/24346"
         }
     ],
-    "description": "A case in which the Court determined that a municipal ordinance that allows the police to inspect hotel records without a warrant violates the Fourth Amendment’s prohibition against unreasonable searches unless the business owner is given the opportunity for pre-compliance review.",
+    "description": "A case in which the Court determined that language in the federal charter of the Federal National Mortgage Association (Fannie Mae) that authorizes the organization to sue and be sued does not mean that federal courts have subject matter jurisdiction over any case in which Fannie Mae is a plaintiff or defendant, and the Supreme Court’s precedent in American National Red Cross v. S.G. doe not require a different result.\r\n",
     "written_opinion": [
         {
-            "id": 525,
-            "title": "Dissenting opinion",
-            "author": null,
-            "type": {
-                "value": "dissenting",
-                "label": "Dissenting opinion"
-            },
-            "justia_opinion_id": 3424288,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/dissent4.html",
-            "judge_full_name": "Antonin Scalia",
-            "judge_last_name": "Scalia",
-            "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/525"
-        },
-        {
-            "id": 526,
-            "title": "Dissenting opinion",
-            "author": null,
-            "type": {
-                "value": "dissenting",
-                "label": "Dissenting opinion"
-            },
-            "justia_opinion_id": 3424286,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/dissent5.html",
-            "judge_full_name": "Samuel A. Alito, Jr.",
-            "judge_last_name": "Alito",
-            "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/526"
-        },
-        {
-            "id": 527,
-            "title": "Opinion of the Court",
-            "author": null,
-            "type": {
-                "value": "majority",
-                "label": "Opinion of the Court"
-            },
-            "justia_opinion_id": 3424285,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/opinion3.html",
-            "judge_full_name": "Sonia Sotomayor",
-            "judge_last_name": "Sotomayor",
-            "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/527"
-        },
-        {
-            "id": 528,
+            "id": 16173,
             "title": "Syllabus",
             "author": null,
             "type": {
                 "value": "syllabus",
                 "label": "Syllabus"
             },
-            "justia_opinion_id": 3424287,
-            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/",
+            "justia_opinion_id": 3678283,
+            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/580/14-1055/",
             "judge_full_name": null,
             "judge_last_name": null,
             "title_overwrite": null,
-            "href": "https://api.oyez.org/case_document/written_opinion/528"
+            "href": "https://api.oyez.org/case_document/written_opinion/16173"
+        },
+        {
+            "id": 16174,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 3678282,
+            "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/580/14-1055/",
+            "judge_full_name": "Sonia Sotomayor",
+            "judge_last_name": "Sotomayor",
+            "title_overwrite": null,
+            "href": "https://api.oyez.org/case_document/written_opinion/16174"
         }
     ],
     "related_cases": null,
-    "justia_url": "https://supreme.justia.com/cases/federal/us/576/13-1175/"
+    "justia_url": "https://supreme.justia.com/cases/federal/us/580/14-1055/"
 }
