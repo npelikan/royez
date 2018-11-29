@@ -4,10 +4,12 @@
 \alias{as.data.frame.OyezTranscript}
 \title{Converts an OyezTranscript object into a data.frame}
 \usage{
-\method{as.data.frame}{OyezTranscript}(x)
+\method{as.data.frame}{OyezTranscript}(x, ...)
 }
 \arguments{
 \item{x}{an OyezTranscript object}
+
+\item{...}{other arguments passed on to methods}
 }
 \value{
 a data.frame object

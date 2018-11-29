@@ -1,6 +1,7 @@
 #' Converts an OyezTranscript object into a data.frame
 #'
 #' @param x an OyezTranscript object
+#' @param ... other arguments passed on to methods
 #'
 #' @return a data.frame object
 #'
@@ -11,7 +12,7 @@
 #' as.data.frame(t)
 #' }
 #' @export
-as.data.frame.OyezTranscript <- function(x){
+as.data.frame.OyezTranscript <- function(x, ...){
 
    unpack_sections_(x)
 }

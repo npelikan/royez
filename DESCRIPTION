@@ -18,5 +18,6 @@ Imports:
     httr,
     glue,
     purrr,
-    tibble
+    tibble,
+    dplyr
 RoxygenNote: 6.0.1
