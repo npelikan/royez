@@ -2,7 +2,7 @@
     "ID": 54907,
     "name": "Bush v. Gore",
     "href": "https://api.oyez.org/cases/2000/00-949",
-    "view_count": 8161,
+    "view_count": 8132,
     "docket_number": "00-949",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -184,7 +184,7 @@
                         "ID": 15092,
                         "name": "Sandra Day O'Connor",
                         "href": "https://api.oyez.org/people/sandra_day_oconnor",
-                        "view_count": 0,
+                        "view_count": 101,
                         "last_name": "O'Connor",
                         "roles": [
                             {
@@ -219,7 +219,7 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https://api.oyez.org/people/antonin_scalia",
-                        "view_count": 119,
+                        "view_count": 117,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -292,7 +292,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                        "view_count": 110,
+                        "view_count": 101,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -357,7 +357,7 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https://api.oyez.org/people/stephen_g_breyer",
-                            "view_count": 156,
+                            "view_count": 178,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -390,7 +390,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https://api.oyez.org/people/clarence_thomas",
-                        "view_count": 353,
+                        "view_count": 373,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -463,7 +463,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                        "view_count": 232,
+                        "view_count": 248,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -498,7 +498,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https://api.oyez.org/people/stephen_g_breyer",
-                        "view_count": 156,
+                        "view_count": 178,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -623,7 +623,7 @@
                         "ID": 15092,
                         "name": "Sandra Day O'Connor",
                         "href": "https://api.oyez.org/people/sandra_day_oconnor",
-                        "view_count": 0,
+                        "view_count": 101,
                         "last_name": "O'Connor",
                         "roles": [
                             {
@@ -658,7 +658,7 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https://api.oyez.org/people/antonin_scalia",
-                        "view_count": 119,
+                        "view_count": 117,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -731,7 +731,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                        "view_count": 110,
+                        "view_count": 101,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -796,7 +796,7 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https://api.oyez.org/people/stephen_g_breyer",
-                            "view_count": 156,
+                            "view_count": 178,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -829,7 +829,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https://api.oyez.org/people/clarence_thomas",
-                        "view_count": 353,
+                        "view_count": 373,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -902,7 +902,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                        "view_count": 232,
+                        "view_count": 248,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -937,7 +937,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https://api.oyez.org/people/stephen_g_breyer",
-                        "view_count": 156,
+                        "view_count": 178,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -1052,7 +1052,7 @@
                     "ID": 15092,
                     "name": "Sandra Day O'Connor",
                     "href": "https://api.oyez.org/people/sandra_day_oconnor",
-                    "view_count": 0,
+                    "view_count": 101,
                     "last_name": "O'Connor",
                     "roles": [
                         {
@@ -1079,7 +1079,7 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https://api.oyez.org/people/antonin_scalia",
-                    "view_count": 119,
+                    "view_count": 117,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -1106,7 +1106,7 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                    "view_count": 110,
+                    "view_count": 101,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -1160,7 +1160,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https://api.oyez.org/people/clarence_thomas",
-                    "view_count": 353,
+                    "view_count": 373,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -1187,7 +1187,7 @@
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                    "view_count": 232,
+                    "view_count": 248,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -1214,7 +1214,7 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https://api.oyez.org/people/stephen_g_breyer",
-                    "view_count": 156,
+                    "view_count": 178,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -1324,7 +1324,7 @@
                 "ID": 15092,
                 "name": "Sandra Day O'Connor",
                 "href": "https://api.oyez.org/people/sandra_day_oconnor",
-                "view_count": 0,
+                "view_count": 101,
                 "last_name": "O'Connor",
                 "roles": [
                     {
@@ -1351,7 +1351,7 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https://api.oyez.org/people/antonin_scalia",
-                "view_count": 119,
+                "view_count": 117,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -1378,7 +1378,7 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                "view_count": 110,
+                "view_count": 101,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -1432,7 +1432,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https://api.oyez.org/people/clarence_thomas",
-                "view_count": 353,
+                "view_count": 373,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -1459,7 +1459,7 @@
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                "view_count": 232,
+                "view_count": 248,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -1486,7 +1486,7 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https://api.oyez.org/people/stephen_g_breyer",
-                "view_count": 156,
+                "view_count": 178,
                 "last_name": "Breyer",
                 "roles": [
                     {
