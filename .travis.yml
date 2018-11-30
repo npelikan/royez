@@ -21,8 +21,6 @@ jobs:
           r: release
         - os: osx
           r: oldrel
-        - os: osx
-          r: 3.3
 
 sudo: false
 cache: packages
