@@ -10,4 +10,14 @@ with_mock_api({
         expect_s3_class(cl[[1]], 'OyezCase')
     })
 
+
+    test_that("returns cases for multiple advocates", {
+        a <- oyez_case(term = 2014, docket_number='13-1175')
+        ads <- advocates(a)
+        cl <- cases(ads)
+        expect_s3_class(cl, 'OyezCaseList')
+        expect_true(length(cl) > 18)
+        expect_s3_class(cl[[1]], 'OyezCase')
+    })
+
 })

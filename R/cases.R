@@ -16,6 +16,14 @@ cases.OyezAdvocate <- function(x, ...){
     get_advocate_cases_(x)
 }
 
+#' @rdname cases
+#' @export
+cases.OyezAdvocateList <- function(x, ...){
+    out <- purrr::flatten(purrr::map(x, get_advocate_cases_))
+    class(out) <- "OyezCaseList"
+    out
+}
+
 
 ## helper functions
 #' @keywords internal

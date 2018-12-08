@@ -111,7 +111,7 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https://api.oyez.org/people/john_g_roberts_jr",
-                        "view_count": 153,
+                        "view_count": 176,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -181,7 +181,7 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https://api.oyez.org/people/antonin_scalia",
-                        "view_count": 117,
+                        "view_count": 152,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -216,7 +216,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                        "view_count": 101,
+                        "view_count": 121,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -286,7 +286,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https://api.oyez.org/people/clarence_thomas",
-                        "view_count": 373,
+                        "view_count": 435,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -321,7 +321,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                        "view_count": 248,
+                        "view_count": 324,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -356,7 +356,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https://api.oyez.org/people/stephen_g_breyer",
-                        "view_count": 178,
+                        "view_count": 235,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -391,7 +391,7 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https://api.oyez.org/people/samuel_a_alito_jr",
-                        "view_count": 176,
+                        "view_count": 248,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -442,7 +442,7 @@
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https://api.oyez.org/people/john_g_roberts_jr",
-                    "view_count": 153,
+                    "view_count": 176,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -496,7 +496,7 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https://api.oyez.org/people/antonin_scalia",
-                    "view_count": 117,
+                    "view_count": 152,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -523,7 +523,7 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                    "view_count": 101,
+                    "view_count": 121,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -577,7 +577,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https://api.oyez.org/people/clarence_thomas",
-                    "view_count": 373,
+                    "view_count": 435,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -604,7 +604,7 @@
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                    "view_count": 248,
+                    "view_count": 324,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -631,7 +631,7 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https://api.oyez.org/people/stephen_g_breyer",
-                    "view_count": 178,
+                    "view_count": 235,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -658,7 +658,7 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https://api.oyez.org/people/samuel_a_alito_jr",
-                    "view_count": 176,
+                    "view_count": 248,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -704,7 +704,7 @@
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https://api.oyez.org/people/john_g_roberts_jr",
-                "view_count": 153,
+                "view_count": 176,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -758,7 +758,7 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https://api.oyez.org/people/antonin_scalia",
-                "view_count": 117,
+                "view_count": 152,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -785,7 +785,7 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https://api.oyez.org/people/anthony_m_kennedy",
-                "view_count": 101,
+                "view_count": 121,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -839,7 +839,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https://api.oyez.org/people/clarence_thomas",
-                "view_count": 373,
+                "view_count": 435,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -866,7 +866,7 @@
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https://api.oyez.org/people/ruth_bader_ginsburg",
-                "view_count": 248,
+                "view_count": 324,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -893,7 +893,7 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https://api.oyez.org/people/stephen_g_breyer",
-                "view_count": 178,
+                "view_count": 235,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -920,7 +920,7 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https://api.oyez.org/people/samuel_a_alito_jr",
-                "view_count": 176,
+                "view_count": 248,
                 "last_name": "Alito",
                 "roles": [
                     {

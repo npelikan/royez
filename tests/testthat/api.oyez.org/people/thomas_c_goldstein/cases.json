@@ -3,7 +3,7 @@
         "ID": 62993,
         "name": "Air and Liquid Systems Corp. v. Devries",
         "href": "https://api.oyez.org/cases/2018/17-1104",
-        "view_count": 3647,
+        "view_count": 3139,
         "docket_number": "17-1104",
         "timeline": [
             {
@@ -36,7 +36,7 @@
         "ID": 62863,
         "name": "Cyan, Inc. v. Beaver County Employees' Retirement Fund",
         "href": "https://api.oyez.org/cases/2017/15-1439",
-        "view_count": 0,
+        "view_count": 120,
         "docket_number": "15-1439",
         "timeline": [
             {
@@ -76,7 +76,7 @@
         "ID": 62811,
         "name": "Bristol-Myers Squibb Co. v. Superior Court of California",
         "href": "https://api.oyez.org/cases/2016/16-466",
-        "view_count": 800,
+        "view_count": 713,
         "docket_number": "16-466",
         "timeline": [
             {
@@ -156,7 +156,7 @@
         "ID": 56178,
         "name": "DIRECTV, Inc. v. Imburgia",
         "href": "https://api.oyez.org/cases/2015/14-462",
-        "view_count": 115,
+        "view_count": 128,
         "docket_number": "14-462",
         "timeline": [
             {
@@ -236,7 +236,7 @@
         "ID": 62595,
         "name": "Heffernan v. City of Paterson",
         "href": "https://api.oyez.org/cases/2015/14-1280",
-        "view_count": 280,
+        "view_count": 339,
         "docket_number": "14-1280",
         "timeline": [
             {
@@ -276,7 +276,7 @@
         "ID": 56058,
         "name": "City of Los Angeles v. Patel",
         "href": "https://api.oyez.org/cases/2014/13-1175",
-        "view_count": 282,
+        "view_count": 313,
         "docket_number": "13-1175",
         "timeline": [
             {
@@ -396,7 +396,7 @@
         "ID": 56086,
         "name": "Omnicare, Inc. v. Laborers District Council Construction Industry Pension Fund",
         "href": "https://api.oyez.org/cases/2014/13-435",
-        "view_count": 117,
+        "view_count": 140,
         "docket_number": "13-435",
         "timeline": [
             {
@@ -476,7 +476,7 @@
         "ID": 55985,
         "name": "Walden v. Fiore",
         "href": "https://api.oyez.org/cases/2013/12-574",
-        "view_count": 208,
+        "view_count": 231,
         "docket_number": "12-574",
         "timeline": [
             {
@@ -516,7 +516,7 @@
         "ID": 55927,
         "name": "Already LLC v. Nike",
         "href": "https://api.oyez.org/cases/2012/11-982",
-        "view_count": 241,
+        "view_count": 186,
         "docket_number": "11-982",
         "timeline": [
             {
@@ -550,13 +550,13 @@
         },
         "term": "2012",
         "description": "A case in which the Court held that a covenant not to sue invalidates a company’s counterclaim for trademark enforcement.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/568/11-982/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/568/85/"
     },
     {
         "ID": 55924,
         "name": "City of Arlington, TX v. FCC",
         "href": "https://api.oyez.org/cases/2012/11-1545",
-        "view_count": 199,
+        "view_count": 258,
         "docket_number": "11-1545",
         "timeline": [
             {
@@ -590,7 +590,7 @@
         },
         "term": "2012",
         "description": "A case in which the Court found that the courts must apply the Chevron doctrine and defer to an agency's interpretation of its jurisdiction when that jurisdiction is called into question.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/569/11-1545/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/569/290/"
     },
     {
         "ID": 55961,
@@ -630,13 +630,13 @@
         },
         "term": "2012",
         "description": "A case in which the Court found that distribution of small amounts of marijuana does not constitute an aggravated felony and thus, does not require deportation of the distributor.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/569/11-702/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/569/184/"
     },
     {
         "ID": 55820,
         "name": "Christopher v. SmithKline",
         "href": "https://api.oyez.org/cases/2011/11-204",
-        "view_count": 186,
+        "view_count": 129,
         "docket_number": "11-204",
         "timeline": [
             {
@@ -670,13 +670,13 @@
         },
         "term": "2011",
         "description": "A case in which the Court held that the Secretary of Labor's definition of \"outside salesman\" apply to pharmaceutical sales representatives under the Fair Labor Standards Act.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/567/11-204/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/567/142/"
     },
     {
         "ID": 55852,
         "name": "Florence v. Board of Chosen Freeholders of the County of Burlington",
         "href": "https://api.oyez.org/cases/2011/10-945",
-        "view_count": 428,
+        "view_count": 528,
         "docket_number": "10-945",
         "timeline": [
             {
@@ -710,13 +710,13 @@
         },
         "term": "2011",
         "description": "A case in which the Court held that prisons that conduct suspicion-less strip searches on incoming inmates do not violate the prisoner's Fourth Amendment rights.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/566/10-945/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/566/318/"
     },
     {
         "ID": 55749,
         "name": "Sorrell v. IMS Health Inc.",
         "href": "https://api.oyez.org/cases/2010/10-779",
-        "view_count": 336,
+        "view_count": 381,
         "docket_number": "10-779",
         "timeline": [
             {
@@ -750,7 +750,7 @@
         },
         "term": "2010",
         "description": "A case in which the Court held that a Vermont statute banning the sale, transmission or use of prescription drug user data violated protected speech of the pharmaceutical research companies, manufacturers and others who use that data. ",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/564/10-779/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/564/552/"
     },
     {
         "ID": 55657,
@@ -790,7 +790,7 @@
         },
         "term": "2009",
         "description": "A case in which the Court held that a bankruptcy court may take evidence into account that suggests a debtor's finances prior to the filing period would be different than the debtor's finances during the period of bankruptcy.",
-        "justia_url": "https://supreme.justia.com/cases/federal/us/560/08-998/"
+        "justia_url": "https://supreme.justia.com/cases/federal/us/560/505/"
     },
     {
         "ID": 55599,
@@ -916,7 +916,7 @@
         "ID": 55515,
         "name": "Virginia v. Moore",
         "href": "https://api.oyez.org/cases/2007/06-1082",
-        "view_count": 121,
+        "view_count": 166,
         "docket_number": "06-1082",
         "timeline": [
             {
@@ -956,7 +956,7 @@
         "ID": 55450,
         "name": "KSR International Co. v. Teleflex Inc.",
         "href": "https://api.oyez.org/cases/2006/04-1350",
-        "view_count": 130,
+        "view_count": 118,
         "docket_number": "04-1350",
         "timeline": [
             {
@@ -996,7 +996,7 @@
         "ID": 55346,
         "name": "Georgia v. Randolph",
         "href": "https://api.oyez.org/cases/2005/04-1067",
-        "view_count": 948,
+        "view_count": 885,
         "docket_number": "04-1067",
         "timeline": [
             {
@@ -1076,7 +1076,7 @@
         "ID": 55274,
         "name": "National Cable & Telecommunications Assocation v. Brand X Internet Services",
         "href": "https://api.oyez.org/cases/2004/04-277",
-        "view_count": 230,
+        "view_count": 298,
         "docket_number": "04-277",
         "timeline": [
             {
@@ -1116,7 +1116,7 @@
         "ID": 55212,
         "name": "Smith v. City of Jackson, Mississippi",
         "href": "https://api.oyez.org/cases/2004/03-1160",
-        "view_count": 152,
+        "view_count": 116,
         "docket_number": "03-1160",
         "timeline": [
             {
@@ -1276,7 +1276,7 @@
         "ID": 55187,
         "name": "Fellers v. United States",
         "href": "https://api.oyez.org/cases/2003/02-6320",
-        "view_count": 101,
+        "view_count": 0,
         "docket_number": "02-6320",
         "timeline": [
             {
@@ -1455,7 +1455,7 @@
         "ID": 54941,
         "name": "Bartnicki v. Vopper",
         "href": "https://api.oyez.org/cases/2000/99-1687",
-        "view_count": 501,
+        "view_count": 555,
         "docket_number": "99-1687",
         "timeline": [
             {
