@@ -3,11 +3,14 @@
 \name{cases}
 \alias{cases}
 \alias{cases.OyezAdvocate}
+\alias{cases.OyezAdvocateList}
 \title{Get cases for an \code{Oyez} object}
 \usage{
 cases(x, ...)
 
 \method{cases}{OyezAdvocate}(x, ...)
+
+\method{cases}{OyezAdvocateList}(x, ...)
 }
 \arguments{
 \item{x}{the Oyez object}
